@@ -1,0 +1,1 @@
+This project looks at the correlation between height and pitching performance using PITCHf/x data. The source data came from a large .csv file that was too large to upload, so at the moment I'm sharing only the R code and the write up.
