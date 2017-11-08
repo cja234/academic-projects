@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 10000.16.0917.1429                               -->
+<workbook source-build='10.0.1 (10000.16.0917.1429)' source-platform='win' version='10.0' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='arrieta_table' inline='true' name='federated.0dourks015ajsu16zagj119r68dh' version='10.0'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='arrieta_table' name='textscan.1szzvk9194gq3t18qdplz0s9j983'>
+            <connection class='textscan' directory='C:/Users/cjand_000/SkyDrive/NU MSPA/PREDICT 455 Data Visualization/Assignment 2' filename='arrieta_table.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1szzvk9194gq3t18qdplz0s9j983' name='arrieta_table.csv' table='[arrieta_table#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='game_year' ordinal='1' />
+            <column datatype='real' name='z0' ordinal='2' />
+            <column datatype='real' name='mytable2$x0' ordinal='3' />
+            <column datatype='string' name='team' ordinal='4' />
+            <column datatype='integer' name='pitches' ordinal='5' />
+            <column datatype='integer' name='player_id' ordinal='6' />
+            <column datatype='string' name='player_name' ordinal='7' />
+            <column datatype='integer' name='total_pitches' ordinal='8' />
+            <column datatype='integer' name='pitch_percent' ordinal='9' />
+            <column datatype='real' name='ba' ordinal='10' />
+            <column datatype='real' name='iso' ordinal='11' />
+            <column datatype='real' name='babip' ordinal='12' />
+            <column datatype='real' name='slg' ordinal='13' />
+            <column datatype='integer' name='hits' ordinal='14' />
+            <column datatype='integer' name='abs' ordinal='15' />
+            <column datatype='real' name='exit_velocity' ordinal='16' />
+            <column datatype='real' name='launch_angle' ordinal='17' />
+            <column datatype='integer' name='spin_rate' ordinal='18' />
+            <column datatype='real' name='velocity' ordinal='19' />
+            <column datatype='real' name='effective_speed' ordinal='20' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>game_year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[game_year]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>game_year</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>z0</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[z0]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>z0</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>mytable2$x0</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[mytable2$x0]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>mytable2$x0</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>team</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[team]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>team</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pitches</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pitches]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>pitches</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>player_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[player_id]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>player_id</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>player_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[player_name]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>player_name</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total_pitches</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total_pitches]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>total_pitches</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pitch_percent</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pitch_percent]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>pitch_percent</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ba</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ba]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>ba</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>iso</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[iso]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>iso</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>babip</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[babip]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>babip</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>slg</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[slg]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>slg</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hits</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[hits]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>hits</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>abs</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[abs]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>abs</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>exit_velocity</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[exit_velocity]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>exit_velocity</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>launch_angle</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[launch_angle]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>launch_angle</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>spin_rate</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[spin_rate]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>spin_rate</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>velocity</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[velocity]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>velocity</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>effective_speed</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[effective_speed]</local-name>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias>effective_speed</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[arrieta_table.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Abs' datatype='integer' name='[abs]' role='measure' type='quantitative' />
+      <column caption='Ba' datatype='real' name='[ba]' role='measure' type='quantitative' />
+      <column caption='Babip' datatype='real' name='[babip]' role='measure' type='quantitative' />
+      <column caption='Effective Speed' datatype='real' name='[effective_speed]' role='measure' type='quantitative' />
+      <column caption='Exit Velocity' datatype='real' name='[exit_velocity]' role='measure' type='quantitative' />
+      <column caption='Game Year' datatype='integer' name='[game_year]' role='dimension' type='quantitative' />
+      <column caption='Hits' datatype='integer' name='[hits]' role='measure' type='quantitative' />
+      <column caption='Iso' datatype='real' name='[iso]' role='measure' type='quantitative' />
+      <column caption='Launch Angle' datatype='real' name='[launch_angle]' role='measure' type='quantitative' />
+      <column caption='Pitch Percent' datatype='integer' name='[pitch_percent]' role='measure' type='quantitative' />
+      <column caption='Pitches' datatype='integer' name='[pitches]' role='measure' type='quantitative' />
+      <column caption='Player Id' datatype='integer' name='[player_id]' role='dimension' type='ordinal' />
+      <column caption='Player Name' datatype='string' name='[player_name]' role='dimension' type='nominal' />
+      <column caption='Slg' datatype='real' name='[slg]' role='measure' type='quantitative' />
+      <column caption='Spin Rate' datatype='integer' name='[spin_rate]' role='measure' type='quantitative' />
+      <column datatype='string' name='[team]' role='dimension' type='nominal' />
+      <column caption='Total Pitches' datatype='integer' name='[total_pitches]' role='measure' type='quantitative' />
+      <column caption='Velocity' datatype='real' name='[velocity]' role='measure' type='quantitative' />
+      <column caption='Z0' datatype='real' name='[z0]' role='measure' type='quantitative' />
+      <column-instance column='[team]' derivation='None' name='[none:team:nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.26175' measure-ordering='alphabetic' measure-percentage='0.73825' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:team:nk]' type='palette'>
+            <map to='#1170aa'>
+              <bucket>&quot;CHC&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;BAL&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options export-color-legend='false'>
+        <title>
+          <formatted-text>
+            <run>Jake Arrieta release point over time</run>
+          </formatted-text>
+        </title>
+        <caption>
+          <formatted-text>
+            <run>&#10;The colors indicate the team Arrieta was playing for at the time, </run>
+            <run bold='true' fontcolor='#d67b25'>Baltimore Orioles</run>
+            <run> or </run>
+            <run bold='true' fontcolor='#2236a7'>Chicago Cubs</run>
+            <run>. </run>
+          </formatted-text>
+        </caption>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='arrieta_table' name='federated.0dourks015ajsu16zagj119r68dh' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0dourks015ajsu16zagj119r68dh'>
+            <column caption='Ba' datatype='real' name='[ba]' role='measure' type='quantitative' />
+            <column caption='Game Year' datatype='integer' name='[game_year]' role='dimension' type='quantitative' />
+            <column datatype='real' name='[mytable2$x0]' role='measure' type='quantitative' />
+            <column-instance column='[game_year]' derivation='None' name='[none:game_year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[team]' derivation='None' name='[none:team:nk]' pivot='key' type='nominal' />
+            <column-instance column='[ba]' derivation='Sum' name='[sum:ba:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[mytable2$x0]' derivation='Sum' name='[sum:mytable2$x0:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[z0]' derivation='Sum' name='[sum:z0:qk]' pivot='key' type='quantitative' />
+            <column datatype='string' name='[team]' role='dimension' type='nominal' />
+            <column caption='Z0' datatype='real' name='[z0]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:z0:qk]' field-type='quantitative' max='6.4000000000000004' min='5.7999999999999998' range-type='fixed' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:z0:qk]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:z0:qk]' scope='rows' value='true' />
+            <encoding attr='space' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[none:game_year:qk]' field-type='quantitative' max='2016' min='2010' range-type='fixed' scope='cols' type='space' />
+            <format attr='subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[none:game_year:qk]' scope='cols' value='' />
+            <format attr='auto-subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[none:game_year:qk]' scope='cols' value='true' />
+            <format attr='title' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[none:game_year:qk]' scope='cols' value='' />
+            <format attr='title' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:z0:qk]' scope='rows' value='Vertical Release Point' />
+            <encoding attr='space' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:ba:qk]' field-type='quantitative' max='0.29999999999999999' min='0.14999999999999999' range-type='fixed' scope='rows' type='space' />
+            <format attr='title' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:ba:qk]' scope='rows' value='Batting Average Against' />
+            <format attr='subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:ba:qk]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:ba:qk]' scope='rows' value='true' />
+            <encoding attr='space' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:mytable2$x0:qk]' field-type='quantitative' max='-1.8' min='-3.115053604747767' range-type='fixed' scope='rows' type='space' />
+            <format attr='subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:mytable2$x0:qk]' scope='rows' value='' />
+            <format attr='auto-subtitle' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:mytable2$x0:qk]' scope='rows' value='true' />
+            <format attr='title' class='0' field='[federated.0dourks015ajsu16zagj119r68dh].[sum:mytable2$x0:qk]' scope='rows' value='Horizonal Release Point' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' value='Team'>
+              <formatted-text>
+                <run>Team</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+              <path column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+            </encodings>
+          </pane>
+          <pane id='1' y-axis-name='[federated.0dourks015ajsu16zagj119r68dh].[sum:z0:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+              <path column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='2' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' y-axis-name='[federated.0dourks015ajsu16zagj119r68dh].[sum:ba:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+              <path column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='2' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='4' y-axis-name='[federated.0dourks015ajsu16zagj119r68dh].[sum:mytable2$x0:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+              <path column='[federated.0dourks015ajsu16zagj119r68dh].[none:team:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='2' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0dourks015ajsu16zagj119r68dh].[sum:z0:qk] + ([federated.0dourks015ajsu16zagj119r68dh].[sum:mytable2$x0:qk] + [federated.0dourks015ajsu16zagj119r68dh].[sum:ba:qk]))</rows>
+        <cols>[federated.0dourks015ajsu16zagj119r68dh].[none:game_year:qk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='59'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='bottom'>
+          <strip size='177'>
+            <card type='caption' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0dourks015ajsu16zagj119r68dh].[none:game_year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      QmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>
