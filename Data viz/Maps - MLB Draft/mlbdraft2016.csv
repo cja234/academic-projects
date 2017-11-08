@@ -1,0 +1,1217 @@
+RND,PICK,TEAM,PLAYER,POS,SCHOOL,ST,BONUS,REPORTS
+1,1,Phillies,Mickey Moniak,OF,"La Costa Canyon HS, Carlsbad, Calif.",CA,"$6,100,000 ",Scouting
+1,2,Reds,Nick Senzel,3B,Tennessee,TN,"$6,200,000 ",Scouting
+1,3,Braves,Ian Anderson,RHP,"Shenendehowa HS, Clifton Park, N.Y.",NY,"$4,000,000 ",Scouting
+1,4,Rockies,Riley Pint,RHP,"St. Thomas Aquinas HS, Overland Park, Kan.",KS,"$4,800,000 ",Scouting
+1,5,Brewers,Corey Ray,OF,Louisville,KY,"$4,125,000 ",Scouting
+1,6,Athletics,A.J. Puk,LHP,Florida,FL,"$4,069,200 ",Scouting
+1,7,Marlins,Braxton Garrett,LHP,Florence (Ala.) HS,AL,"$4,145,900 ",Scouting
+1,8,Padres,Cal Quantrill,RHP,Stanford,CA,"$3,963,045 ",Scouting
+1,9,Tigers,Matt Manning,RHP,"Sheldon HS, Sacramento",CA,"$3,505,800 ",Scouting
+1,10,White Sox,Zack Collins,C,Miami,FL,"$3,380,600 ",Scouting
+1,11,Mariners,Kyle Lewis,OF,Mercer,GA,"$3,286,700 ",Scouting
+1,12,Red Sox,Jason Groome,LHP,Barnegat (N.J.) HS,NJ,"$3,650,000 ",Scouting
+1,13,Rays,Josh Lowe,3B,"Pope HS, Marietta, Ga.",GA,"$2,597,500 ",Scouting
+1,14,Indians,Will Benson,OF,"The Westminster Schools, Atlanta",GA,"$2,500,000 ",Scouting
+1,15,Twins,Alex Kirilloff,OF,"Plum HS, Pittsburgh",PA,"$2,817,100 ",Scouting
+1,16,Angels,Matt Thaiss,C,Virginia,VA,"$2,150,000 ",Scouting
+1,17,Astros,Forrest Whitley,RHP,"Alamo Heights HS, San Antonio",TX,"$3,148,000 ",Scouting
+1,18,Yankees,Blake Rutherford,OF,"Chaminade College Prep HS, Canoga Park, Calif.",CA,"$3,282,000 ",Scouting
+1,19,Mets,Justin Dunn,RHP,Boston College,MA,"$2,378,800 ",Scouting
+1,20,Dodgers,Gavin Lux,SS,"Indian Trail HS, Kenosha, Wis.",WI,"$2,314,500 ",Scouting
+1,21,Blue Jays,T.J. Zeuch,RHP,Pittsburgh,PA,"$2,175,000 ",Scouting
+1,22,Pirates,Will Craig,3B,Wake Forest,NC,"$2,253,700 ",Scouting
+1,23,Cardinals,Delvin Perez,SS,"International Baseball Academy, Ceiba, P.R.",PR,"$2,222,500 ",Scouting
+1,24,Padres,Hudson Potts,SS,"Carroll HS, Southlake, Texas",TX,"$1,000,000 ",Scouting
+1,25,Padres,Eric Lauer,LHP,Kent State,OH,"$2,000,000 ",Scouting
+1,26,White Sox,Zack Burdi,RHP,Louisville,KY,"$2,128,500 ",Scouting
+1,27,Orioles,Cody Sedlock,RHP,Illinois,IL,"$2,097,200 ",Scouting
+1,28,Nationals,Carter Kieboom,SS,"Walton HS, Marietta, Ga.",GA,"$2,000,000 ",Scouting
+1,29,Nationals,Dane Dunning,RHP,Florida,FL,"$2,000,000 ",Scouting
+1,30,Rangers,Cole Ragans,LHP,"North Florida Christian HS, Tallahassee, Fla.",FL,"$2,003,400 ",Scouting
+1,31,Mets,Anthony Kay,LHP,Connecticut,CT,"$1,100,000 ",Scouting
+1,32,Dodgers,Will Smith,C,Louisville,KY,"$1,772,500 ",Scouting
+1,33,Cardinals,Dylan Carlson,OF,Elk Grove (Calif.) HS,CA,"$1,350,000 ",Scouting
+1,34,Cardinals,Dakota Hudson,RHP,Mississippi State,MS,"$2,000,000 ",Scouting
+1.5,35,Reds,Taylor Trammell,OF,"Mount Paran Christian School, Kennesaw, Ga.",GA,"$3,200,000 ",Scouting
+1.5,36,Dodgers,Jordan Sheffield,RHP,Vanderbilt,TN,"$1,847,500 ",Scouting
+1.5,37,Athletics,Daulton Jefferies,RHP,California,CA,"$1,600,000 ",Scouting
+1.5,38,Rockies,Robert Tyler,RHP,Georgia,GA,"$1,701,600 ",Scouting
+1.5,39,Diamondbacks,Anfernee Grier,OF,Auburn,AL,"$1,500,000 ",Scouting
+1.5,40,Braves,Joey Wentz,LHP,"Shawnee Mission East HS, Prairie Village, Kan.",KS,"$3,050,000 ",Scouting
+1.5,41,Pirates,Nick Lodolo,LHP,"Damien HS, La Verne, Calif.",CA,Pool,Scouting
+2,42,Phillies,Kevin Gowdy,RHP,Santa Barbara (Calif.) HS,CA,"$3,500,000 ",Scouting
+2,43,Reds,Chris Okey,C,Clemson,SC,"$2,000,000 ",Scouting
+2,44,Braves,Kyle Muller,LHP,Dallas Jesuit Prep,TX,"$2,500,000 ",Scouting
+2,45,Rockies,Ben Bowden,LHP,Vanderbilt,TN,"$1,600,000 ",Scouting
+2,46,Brewers,Lucas Erceg,3B,Menlo (Calif.),CA,"$1,150,000 ",Scouting
+2,47,Athletics,Logan Shore,RHP,Florida,FL,"$1,500,000 ",Scouting
+2,48,Padres,Buddy Reed,OF,Florida,FL,"$1,075,000 ",Scouting
+2,49,White Sox,Alec Hansen,RHP,Oklahoma,OK,"$1,200,000 ",Scouting
+2,50,Mariners,Joe Rizzo,3B,"Oakton HS, Vienna, Va.",VA,"$1,750,000 ",Scouting
+2,51,Red Sox,C.J. Chatham,SS,Florida Atlantic,FL,"$1,100,000 ",Scouting
+2,52,Diamondbacks,Andy Yerzy,C,"York Mills Collegiate Institute, Toronto",ON,"$1,214,100 ",Scouting
+2,53,Rays,Ryan Boldt,OF,Nebraska,NE,"$997,500 ",Scouting
+2,54,Orioles,Keegan Akin,LHP,Western Michigan,MI,"$1,177,200 ",Scouting
+2,55,Indians,Nolan Jones,SS,"Holy Ghost Prep, Bensalem, Pa.",PA,"$2,250,000 ",Scouting
+2,56,Twins,Ben Rortvedt,C,Verona (Wis.) HS,WI,"$900,000 ",Scouting
+2,57,Blue Jays,J.B. Woodman,OF,Mississippi,MS,"$975,000 ",Scouting
+2,58,Nationals,Sheldon Neuse,3B,Oklahoma,OK,"$900,000 ",Scouting
+2,59,Giants,Bryan Reynolds,OF,Vanderbilt,TN,"$1,350,000 ",Scouting
+2,60,Angels,Brandon Marsh,OF,Buford (Ga.) HS,GA,"$1,073,300 ",Scouting
+2,61,Astros,Ronnie Dawson,OF,Ohio State,OH,"$1,056,800 ",Scouting
+2,62,Yankees,Nick Solak,2B,Louisville,KY,"$950,000 ",Scouting
+2,63,Rangers,Alex Speas,RHP,"McEachern HS, Powder Springs, Ga.",GA,"$1,024,900 ",Scouting
+2,64,Mets,Peter Alonso,1B,Florida,FL,"$909,200 ",Scouting
+2,65,Dodgers,Mitchell White,RHP,Santa Clara,CA,"$588,300 ",Scouting
+2,66,Blue Jays,Bo Bichette,SS,"Lakewood HS, St. Petersburg, Fla.",FL,"$1,100,000 ",Scouting
+2,67,Royals,A.J. Puckett,RHP,Pepperdine,CA,"$1,200,000 ",Scouting
+2,68,Pirates,Travis MacGregor,RHP,"East Lake HS, Tarpon Springs, Fla.",FL,"$900,000 ",Scouting
+2,69,Orioles,Matthias Dietz,RHP,John A. Logan (Ill.) JC,IL,"$1,300,000 ",Scouting
+2,70,Cardinals,Connor Jones,RHP,Virginia,VA,"$1,100,000 ",Scouting
+2.5,71,Padres,Reggie Lawson,RHP,"Victor Valley HS, Victorville, Calif.",CA,"$1,900,000 ",Scouting
+2.5,72,Indians,Logan Ice,C,Oregon State,OR,"$850,000 ",Scouting
+2.5,73,Twins,Jose Miranda,SS,"Leadership Christian Academy, Guaynabo, P.R.",PR,"$775,000 ",Scouting
+2.5,74,Twins,Akil Baddoo,OF,"Salem HS, Conyers, Ga.",GA,"$750,000 ",Scouting
+2.5,75,Brewers,Mario Feliciano,C,"Beltran Baseball Academy, Florida, P.R.",PR,"$800,000 ",Scouting
+2.5,76,Braves,Brett Cumberland,C,California,CA,"$1,500,000 ",Scouting
+2.5,77,Rays,Jake Fraley,OF,Louisiana State,LA,"$797,500 ",Scouting
+3,78,Phillies,Cole Stobbe,SS,"Millard West HS, Omaha",NE,"$1,100,000 ",Scouting
+3,79,Reds,Nick Hanson,RHP,"Prior Lake HS, Savage, Minn.",MN,"$925,000 ",Scouting
+3,80,Braves,Drew Harrington,LHP,Louisville,KY,"$900,000 ",Scouting
+3,81,Rockies,Garrett Hampson,SS,Long Beach State,CA,"$750,000 ",Scouting
+3,82,Brewers,Braden Webb,RHP,South Carolina,SC,"$700,000 ",Scouting
+3,83,Athletics,Sean Murphy,C,Wright State,OH,"$753,100 ",Scouting
+3,84,Marlins,Thomas Jones,OF,Laurens (S.C.) HS,SC,"$1,000,000 ",Scouting
+3,85,Padres,Mason Thompson,RHP,Round Rock (Texas) HS,TX,"$1,750,000 ",Scouting
+3,86,White Sox,Alex Call,OF,Ball State,IN,"$719,100 ",Scouting
+3,87,Mariners,Bryson Brigman,SS,San Diego,CA,"$700,000 ",Scouting
+3,88,Red Sox,Shaun Anderson,RHP,Florida,FL,"$700,000 ",Scouting
+3,89,Diamondbacks,Jon Duplantier,RHP,Rice,TX,"$686,600 ",Scouting
+3,90,Rays,Austin Franklin,RHP,Paxton (Fla.) HS,FL,"$597,500 ",Scouting
+3,91,Orioles,Austin Hays,OF,Jacksonville,FL,"$665,800 ",Scouting
+3,92,Indians,Aaron Civale,RHP,Northeastern,MA,"$625,000 ",Scouting
+3,93,Twins,Griffin Jax,RHP,Air Force,CO,"$645,600 ",Scouting
+3,94,Nationals,Jesus Luzardo,LHP,"Douglas HS, Parkland, Fla.",FL,"$1,400,000 ",Scouting
+3,95,Giants,Heath Quinn,OF,Samford,AL,"$625,900 ",Scouting
+3,96,Angels,Nonie Williams,SS,"Kansas City, Kan. (no school)",KS,"$950,000 ",Scouting
+3,97,Astros,Jake Rogers,C,Tulane,LA,"$614,000 ",Scouting
+3,98,Yankees,Nolan Martinez,RHP,Culver City (Calif.) HS,CA,"$1,150,000 ",Scouting
+3,99,Rangers,Kole Enright,3B,"West Orange HS, Winter Garden, Fla.",FL,"$675,000 ",Scouting
+3,100,Mets,Blake Tiberi,3B,Louisville,KY,"$500,000 ",Scouting
+3,101,Dodgers,Dustin May,RHP,"Northwest HS, Justin, Texas",TX,"$997,500 ",Scouting
+3,102,Blue Jays,Zach Jackson,RHP,Arkansas,AR,"$275,000 ",Scouting
+3,103,Royals,Khalil Lee,OF,"Flint Hill School, Oakton, Va.",VA,"$750,000 ",Scouting
+3,104,Cubs,Thomas Hatch,RHP,Oklahoma State,OK,"$573,900 ",Scouting
+3,105,Pirates,Stephen Alemais,SS,Tulane,LA,"$500,000 ",Scouting
+3,106,Cardinals,Zac Gallen,RHP,North Carolina,NC,"$563,100 ",Scouting
+4,107,Phillies,JoJo Romero,LHP,Yavapai (Ariz.) JC,AZ,"$800,000 ",Scouting
+4,108,Reds,Scott Moss,LHP,Florida,FL,"$577,400 ",Scouting
+4,109,Braves,Bryse Wilson,RHP,"Orange HS, Hillsborough, N.C.",NC,"$1,200,000 ",Scouting
+4,110,Rockies,Colton Welker,3B,"Douglas HS, Parkland, Fla.",FL,"$855,000 ",Scouting
+4,111,Brewers,Corbin Burnes,RHP,St. Mary's,CA,"$536,400 ",Scouting
+4,112,Athletics,Skylar Szynski,RHP,"Penn HS, Mishawaka, Ind.",IN,"$1,000,000 ",Scouting
+4,113,Marlins,Sean Reynolds,OF,"Redondo Union HS, Redondo Beach, Calif.",CA,"$600,000 ",Scouting
+4,114,Padres,Joey Lucchesi,LHP,Southeast Missouri State,MO,"$100,000 ",Scouting
+4,115,Tigers,Kyle Funkhouser,RHP,Louisville,KY,"$750,000 ",Scouting
+4,116,White Sox,Jameson Fisher,OF,Southeastern Louisiana,LA,"$485,000 ",Scouting
+4,117,Mariners,Thomas Burrows,LHP,Alabama,AL,"$450,000 ",Scouting
+4,118,Red Sox,Bobby Dalbec,3B,Arizona,AZ,"$650,000 ",Scouting
+4,119,Diamondbacks,Curtis Taylor,RHP,British Columbia,BC,"$496,700 ",Scouting
+4,120,Rays,Easton McGee,RHP,Hopkinsville (Ky.) HS,KY,"$673,700 ",Scouting
+4,121,Orioles,Brenan Hanifee,RHP,"Ashby HS, Bridgewater, Va.",VA,"$500,000 ",Scouting
+4,122,Indians,Shane Bieber,RHP,UC Santa Barbara,CA,"$420,000 ",Scouting
+4,123,Twins,Thomas Hackimer,RHP,St. John's,NY,"$225,000 ",Scouting
+4,124,Nationals,Nick Banks,OF,Texas A&M,TX,"$500,000 ",Scouting
+4,125,Giants,Matt Krook,LHP,Oregon,OR,"$500,000 ",Scouting
+4,126,Angels,Chris Rodriguez,RHP,Pace (Fla.) HS,FL,"$850,000 ",Scouting
+4,127,Astros,Brett Adcock,LHP,Michigan,MI,"$430,000 ",Scouting
+4,128,Yankees,Nick Nelson,RHP,Gulf Coast State (Fla.) JC,FL,"$350,000 ",Scouting
+4,129,Rangers,Charles LeBlanc,SS,Pittsburgh,PA,"$415,000 ",Scouting
+4,130,Mets,Michael Paez,SS,Coastal Carolina,SC,"$446,500 ",Scouting
+4,131,Dodgers,D.J. Peters,OF,Western Nevada CC,NV,"$247,500 ",Scouting
+4,132,Blue Jays,Josh Palacios,OF,Auburn,AL,"$438,100 ",Scouting
+4,133,Royals,Jace Vines,RHP,Texas A&M,TX,"$375,000 ",Scouting
+4,134,Cubs,Tyson Miller,RHP,California Baptist,CA,"$500,000 ",Scouting
+4,135,Pirates,Braeden Ogle,LHP,Jensen Beach (Fla.) HS,FL,"$800,000 ",Scouting
+4,136,Cardinals,Jeremy Martinez,C,Southern California,CA,"$600,000 ",Scouting
+5,137,Phillies,Cole Irvin,LHP,Oregon,OR,"$800,000 ",Scouting
+5,138,Reds,Ryan Hendrix,RHP,Texas A&M,TX,"$410,000 ",Scouting
+5,139,Braves,Jeremy Walker,RHP,Gardner-Webb,NC,"$275,000 ",Scouting
+5,140,Rockies,Brian Serven,C,Arizona State,AZ,"$400,000 ",Scouting
+5,141,Brewers,Zack Brown,RHP,Kentucky,KY,"$401,700 ",Scouting
+5,142,Athletics,JaVon Shelby,3B,Kentucky,KY,"$275,000 ",Scouting
+5,143,Marlins,Sam Perez,RHP,Missouri State,MO,"$20,000 ",Scouting
+5,144,Padres,Lake Bachar,RHP,Wisconsin-Whitewater,WI,"$350,000 ",Scouting
+5,145,Tigers,Mark Ecker,RHP,Texas A&M,TX,"$386,500 ",Scouting
+5,146,White Sox,Jimmy Lambert,RHP,Fresno State,CA,"$325,000 ",Scouting
+5,147,Mariners,Donnie Walton,SS,Oklahoma State,OK,"$125,000 ",Scouting
+5,148,Red Sox,Mike Shawaryn,RHP,Maryland,MD,"$637,500 ",Scouting
+5,149,Diamondbacks,Joey Rose,3B,Toms River (N.J.) North HS,NJ,"$400,000 ",Scouting
+5,150,Rays,Mikey York,RHP,JC of Southern Nevada,NV,"$297,500 ",Scouting
+5,151,Orioles,Alexis Torres,SS,"Angel David HS, San Juan, P.R.",PR,"$364,700 ",Scouting
+5,152,Indians,Conner Capel,OF,"Seven Lakes HS, Katy, Texas",TX,"$361,300 ",Scouting
+5,153,Twins,Jordan Balazovic,RHP,"St. Martin SS, Mississauga, Ont.",ON,"$515,000 ",Scouting
+5,154,Nationals,Daniel Johnson,OF,New Mexico State,NM,"$325,000 ",Scouting
+5,155,Giants,Ryan Howard,SS,Missouri,MO,"$250,000 ",Scouting
+5,156,Angels,Connor Justus,SS,Georgia Tech,GA,"$250,000 ",Scouting
+5,157,Astros,Abraham Toro,3B,Seminole State (Okla.) JC,OK,"$250,000 ",Scouting
+5,158,Yankees,Dom Thompson-Williams,OF,South Carolina,SC,"$250,000 ",Scouting
+5,159,Rangers,Kyle Roberts,LHP,Henry Ford (Mich.) JC,MI,"$400,000 ",Scouting
+5,160,Mets,Colby Woodmansee,SS,Arizona State,AZ,"$334,500 ",Scouting
+5,161,Dodgers,Devin Smeltzer,LHP,San Jacinto (Texas) JC,TX,"$497,500 ",Scouting
+5,162,Blue Jays,Cavan Biggio,2B,Notre Dame,IN,"$300,000 ",Scouting
+5,163,Royals,Nicky Lopez,SS,Creighton,NE,"$243,300 ",Scouting
+5,164,Cubs,Bailey Clark,RHP,Duke,NC,"$450,000 ",Scouting
+5,165,Pirates,Blake Cederlind,RHP,Merced (Calif.) JC,CA,"$285,000 ",Scouting
+5,166,Cardinals,Walker Robbins,OF,"George County HS, Lucedale, Miss.",MS,"$450,000 ",Scouting
+6,167,Phillies,David Martinelli,OF,Dallas Baptist,TX,"$312,700 ",Scouting
+6,168,Reds,Tyler Mondile,RHP,"Gloucester Catholic HS, Gloucester City, N.J.",NJ,"$309,700 ",Scouting
+6,169,Braves,Matt Gonzalez,2B,Georgia Tech,GA,"$25,000 ",Scouting
+6,170,Rockies,Willie Abreu,OF,Miami,FL,"$303,700 ",Scouting
+6,171,Brewers,Payton Henry,C,Pleasant Grove (Utah) HS,UT,"$550,600 ",Scouting
+6,172,Athletics,Brandon Bailey,RHP,Gonzaga,WA,"$298,000 ",Scouting
+6,173,Marlins,Remey Reed,RHP,Oklahoma State,OK,"$200,000 ",Scouting
+6,174,Padres,Will Stillman,RHP,Wofford,SC,"$50,000 ",Scouting
+6,175,Tigers,Bryan Garcia,RHP,Miami,FL,"$289,400 ",Scouting
+6,176,White Sox,Luis Curbelo,SS,Cocoa (Fla.) HS,FL,"$700,000 ",Scouting
+6,177,Mariners,Brandon Miller,RHP,Millersville (Pa.),PA,"$250,000 ",Scouting
+6,178,Red Sox,Steve Nogosek,RHP,Oregon,OR,"$250,000 ",Scouting
+6,179,Diamondbacks,Mack Lemieux,LHP,Palm Beach State (Fla.) JC,FL,"$278,500 ",Scouting
+6,180,Rays,Zach Trageton,RHP,"Faith Lutheran HS, Las Vegas",NV,"$522,500 ",Scouting
+6,181,Orioles,Tobias Myers,RHP,Winter Haven (Fla.) HS,FL,"$225,000 ",Scouting
+6,182,Indians,Ulysses Cantu,3B,"Boswell HS, Fort Worth",TX,"$270,300 ",Scouting
+6,183,Twins,Alex Schick,RHP,California,CA,"$400,000 ",Scouting
+6,184,Nationals,Tres Barrera,C,Texas,TX,"$210,000 ",Scouting
+6,185,Giants,Gio Brusa,OF,Pacific,CA,"$262,700 ",Scouting
+6,186,Angels,Cole Duensing,RHP,"Blue Valley Northwest HS, Overland Park, Kan.",KS,"$501,300 ",Scouting
+6,187,Astros,Stephen Wrenn,OF,Georgia,GA,"$257,900 ",Scouting
+6,188,Yankees,Brooks Kriske,RHP,Southern California,CA,"$100,000 ",Scouting
+6,189,Rangers,Kyle Cody,RHP,Kentucky,KY,"$150,000 ",Scouting
+6,190,Mets,Chris Viall,RHP,Stanford,CA,"$250,500 ",Scouting
+6,191,Dodgers,Errol Robinson,SS,Mississippi,MS,"$247,500 ",Scouting
+6,192,Blue Jays,D.J. Daniels,OF,"Fike HS, Wilson, N.C.",NC,"$300,000 ",Scouting
+6,193,Royals,Cal Jones,OF,Dadeville (Ala.) HS,AL,"$250,000 ",Scouting
+6,194,Cubs,Chad Hockin,RHP,Cal State Fullerton,CA,"$241,000 ",Scouting
+6,195,Pirates,Cam Vieaux,LHP,Michigan State,MI,"$175,000 ",Scouting
+6,196,Cardinals,Tommy Edman,SS,Stanford,CA,"$236,400 ",Scouting
+7,197,Phillies,Henri Lartigue,C,Mississippi,MS,"$220,000 ",Scouting
+7,198,Reds,Andy Cox,LHP,Tennessee,TN,"$5,000 ",Scouting
+7,199,Braves,J.B. Moss,OF,Texas A&M,TX,"$10,000 ",Scouting
+7,200,Rockies,Reid Humphreys,RHP,Mississippi State,MS,"$227,400 ",Scouting
+7,201,Brewers,Daniel Brown,LHP,Mississippi State,MS,"$120,000 ",Scouting
+7,202,Athletics,Tyler Ramirez,OF,North Carolina,NC,"$300,000 ",Scouting
+7,203,Marlins,Corey Bird,OF,Marshall,WV,"$175,000 ",Scouting
+7,204,Padres,Dan Dallas,LHP,"Canisius HS, Buffalo",NY,"$250,000 ",Scouting
+7,205,Tigers,Austin Sodders,LHP,UC Riverside,CA,"$216,900 ",Scouting
+7,206,White Sox,Bernardo Flores,LHP,Southern California,CA,"$200,000 ",Scouting
+7,207,Mariners,Matt Festa,RHP,East Stroudsburg (Pa.),PA,"$5,000 ",Scouting
+7,208,Red Sox,Ryan Scott,OF,Arkansas-Little Rock,AR,"$10,000 ",Scouting
+7,209,Diamondbacks,Jordan Watson,LHP,Science and Arts of Oklahoma,OK,"$110,000 ",Scouting
+7,210,Rays,J.D. Busfield,RHP,Loyola Marymount,CA,"$172,500 ",Scouting
+7,211,Orioles,Preston Palmeiro,1B,North Carolina State,NC,"$204,700 ",Scouting
+7,212,Indians,Michael Tinsley,C,Kansas,KS,"$175,000 ",Scouting
+7,213,Twins,Matt Albanese,OF,Bryant,RI,"$185,000 ",Scouting
+7,214,Nationals,Jake Noll,2B,Florida Gulf Coast,FL,"$190,000 ",Scouting
+7,215,Giants,Garrett Williams,LHP,Oklahoma State,OK,"$250,000 ",Scouting
+7,216,Angels,Jordan Zimmerman,2B,Michigan State,MI,"$175,000 ",Scouting
+7,217,Astros,Tyler Buffet,RHP,Oklahoma State,OK,Pool,Scouting
+7,218,Yankees,Keith Skinner,C,North Florida,FL,"$10,000 ",Scouting
+7,219,Rangers,Sam Huff,C,"Arcadia HS, Phoenix",AZ,"$225,000 ",Scouting
+7,220,Mets,Austin McGeorge,RHP,Long Beach State,CA,"$175,000 ",Scouting
+7,221,Dodgers,Luke Raley,OF,Lake Erie (Ohio),OH,"$147,500 ",Scouting
+7,222,Blue Jays,Andy Ravel,RHP,Kent State,OH,"$186,900 ",Scouting
+7,223,Royals,Travis Eckert,RHP,Oregon State,OR,"$50,000 ",Scouting
+7,224,Cubs,Michael Cruz,C,Bethune-Cookman,FL,"$75,000 ",Scouting
+7,225,Pirates,Brent Gibbs,C,Central Arizona JC,AZ,"$150,000 ",Scouting
+7,226,Cardinals,Andrew Knizner,C,North Carolina State,NC,"$185,300 ",Scouting
+8,227,Phillies,Grant Dyer,RHP,UCLA,CA,"$175,000 ",Scouting
+8,228,Reds,John Sansone,2B,Florida State,FL,"$15,000 ",Scouting
+8,229,Braves,Taylor Hyssong,LHP,UNC Wilmington,NC,"$10,000 ",Scouting
+8,230,Rockies,Ty Culbreth,LHP,Texas,TX,"$20,000 ",Scouting
+8,231,Brewers,Francisco Thomas,SS,"Osceola HS, Kissimmee, Fla.",FL,"$200,000 ",Scouting
+8,232,Athletics,Will Gilbert,LHP,North Carolina State,NC,"$75,000 ",Scouting
+8,233,Marlins,Aaron Knapp,OF,California,CA,"$170,000 ",Scouting
+8,234,Padres,Ben Sheckler,LHP,Cornerstone (Mich.),MI,"$160,000 ",Scouting
+8,235,Tigers,Jacob Robson,OF,Mississippi State,MS,"$181,600 ",Scouting
+8,236,White Sox,Nate Nolan,C,St. Mary's,CA,"$170,000 ",Scouting
+8,237,Mariners,Nick Zammarelli,3B,Elon,NC,"$150,000 ",Scouting
+8,238,Red Sox,Alan Marrero,C,"International Baseball Academy, Ceiba, P.R.",PR,"$160,000 ",Scouting
+8,239,Diamondbacks,Ryan January,C,San Jacinto (Texas) JC,TX,"$350,000 ",Scouting
+8,240,Rays,Kenny Rosenberg,LHP,Cal State Northridge,CA,"$167,500 ",Scouting
+8,241,Orioles,Ryan Moseley,RHP,Texas Tech,TX,"$150,000 ",Scouting
+8,242,Indians,Andrew Lantrip,LHP,Houston,TX,"$125,000 ",Scouting
+8,243,Twins,Shane Carrier,OF,Fullerton (Calif.) JC,CA,"$178,200 ",Scouting
+8,244,Nationals,A.J. Bogucki,RHP,North Carolina,NC,"$150,000 ",Scouting
+8,245,Giants,Stephen Woods,RHP,Albany,NY,"$200,000 ",Scouting
+8,246,Angels,Troy Montgomery,OF,Ohio State,OH,"$150,000 ",Scouting
+8,247,Astros,Nick Hernandez,RHP,Houston,TX,"$125,000 ",Scouting
+8,248,Yankees,Dalton Blaser,1B,Cal State Fullerton,CA,"$10,000 ",Scouting
+8,249,Rangers,Tai Tiedemann,RHP,Long Beach CC,CA,"$175,800 ",Scouting
+8,250,Mets,Placido Torres,LHP,Tusculum (Tenn.),TN,"$10,000 ",Scouting
+8,251,Dodgers,Andre Scrubb,RHP,High Point,NC,"$122,500 ",Scouting
+8,252,Blue Jays,Kyle Weatherly,RHP,Grayson (Texas) CC,TX,"$250,000 ",Scouting
+8,253,Royals,Chris DeVito,1B,New Mexico,NM,"$125,000 ",Scouting
+8,254,Cubs,Stephen Ridings,RHP,Haverford (Pa.),PA,"$120,000 ",Scouting
+8,255,Pirates,Dylan Prohoroff,RHP,Cal State Fullerton,CA,"$160,000 ",Scouting
+8,256,Cardinals,Sam Tewes,RHP,Wichita State,KS,"$100,000 ",Scouting
+9,257,Phillies,Blake Quinn,RHP,Cal State Fullerton,CA,"$172,600 ",Scouting
+9,258,Reds,Alex Webb,RHP,British Columbia,BC,"$5,000 ",Scouting
+9,259,Braves,Tyler Neslony,OF,Texas Tech,TX,"$8,000 ",Scouting
+9,260,Rockies,Justin Calomeni,RHP,Cal Poly,CA,"$171,400 ",Scouting
+9,261,Brewers,Trey York,2B,East Tennessee State,TN,"$25,000 ",Scouting
+9,262,Athletics,Dalton Sawyer,LHP,Minnesota,MN,"$45,000 ",Scouting
+9,263,Marlins,Jarrett Rindfleisch,C,Ball State,IN,"$125,000 ",Scouting
+9,264,Padres,Jesse Scholtens,RHP,Wright State,OH,"$1,000 ",Scouting
+9,265,Tigers,Daniel Pinero,SS,Virginia,VA,"$169,600 ",Scouting
+9,266,White Sox,Max Dutto,SS,Menlo (Calif.),CA,"$10,000 ",Scouting
+9,267,Mariners,Jason Goldstein,C,Illinois,IL,"$25,000 ",Scouting
+9,268,Red Sox,Matt McLean,OF,Texas-Arlington,TX,"$10,000 ",Scouting
+9,269,Diamondbacks,Tommy Eveld,RHP,South Florida,FL,"$125,000 ",Scouting
+9,270,Rays,Peter Bayer,RHP,Cal Poly Pomona,CA,"$7,500 ",Scouting
+9,271,Orioles,Lucas Humpal,RHP,Texas State,TX,"$10,000 ",Scouting
+9,272,Indians,Hosea Nelson,OF,Clarendon (Texas) JC,TX,"$125,000 ",Scouting
+9,273,Twins,Mitchell Kranson,C,California,CA,"$90,000 ",Scouting
+9,274,Nationals,Joey Harris,C,Gonzaga,WA,"$10,000 ",Scouting
+9,275,Giants,Caleb Baragar,LHP,Indiana,IN,"$20,000 ",Scouting
+9,276,Angels,Michael Barash,C,Texas A&M,TX,"$20,000 ",Scouting
+9,277,Astros,Ryan Hartman,LHP,Tennessee Wesleyan,TN,"$10,000 ",Scouting
+9,278,Yankees,Tim Lynch,1B,Southern Mississippi,MS,"$10,000 ",Scouting
+9,279,Rangers,Hever Bueno,RHP,Arizona State,AZ,"$164,300 ",Scouting
+9,280,Mets,Colin Holderman,RHP,Heartland (Ill.) CC,IL,"$400,000 ",Scouting
+9,281,Dodgers,Tony Gonsolin,RHP,St. Mary's,CA,"$2,500 ",Scouting
+9,282,Blue Jays,Nick Hartman,RHP,Old Dominion,VA,"$163,100 ",Scouting
+9,283,Royals,Walker Sheller,RHP,Stetson,FL,"$115,000 ",Scouting
+9,284,Cubs,Duncan Robinson,RHP,Dartmouth,NH,"$30,000 ",Scouting
+9,285,Pirates,Clark Eagan,OF,Arkansas,AR,"$160,000 ",Scouting
+9,286,Cardinals,Matt Fiedler,OF,Minnesota,MN,"$100,000 ",Scouting
+10,287,Phillies,Julian Garcia,RHP,Metro State (Colo.),CO,"$80,000 ",Scouting
+10,288,Reds,Lucas Benenati,RHP,Kansas State,KS,"$5,000 ",Scouting
+10,289,Braves,Marcus Mooney,SS,South Carolina,SC,"$5,000 ",Scouting
+10,290,Rockies,Vince Fernandez,OF,UC Riverside,CA,"$160,100 ",Scouting
+10,291,Brewers,Blake Fox,LHP,Rice,TX,"$10,000 ",Scouting
+10,292,Athletics,Mitchell Jordan,RHP,Stetson,FL,"$200,000 ",Scouting
+10,293,Marlins,Dylan Lee,LHP,Fresno State,CA,"$10,000 ",Scouting
+10,294,Padres,Boomer White,2B,Texas A&M,TX,"$30,000 ",Scouting
+10,295,Tigers,Sam Machonis,OF,Florida Southern,FL,"$25,000 ",Scouting
+10,296,White Sox,Zach Remillard,3B,Coastal Carolina,SC,"$10,000 ",Scouting
+10,297,Mariners,David Greer,3B,Arizona State,AZ,"$135,000 ",Scouting
+10,298,Red Sox,Santiago Espinal,SS,Miami-Dade JC,FL,"$50,000 ",Scouting
+10,299,Diamondbacks,Stephen Smith,OF,Texas Tech,TX,"$156,000 ",Scouting
+10,300,Rays,Spencer Jones,RHP,Washington,WA,"$7,500 ",Scouting
+10,301,Orioles,Cody Dube,RHP,Keene State (N.H.),NH,"$5,000 ",Scouting
+10,302,Indians,Samad Taylor,SS,Corona (Calif.) HS,CA,"$125,000 ",Scouting
+10,303,Twins,Brandon Lopez,SS,Miami,FL,"$30,000 ",Scouting
+10,304,Nationals,Paul Panaccione,SS,Grand Canyon (Ariz.),AZ,"$10,000 ",Scouting
+10,305,Giants,Alex Bostic,LHP,Clemson,SC,"$156,600 ",Scouting
+10,306,Angels,Andrew Vinson,RHP,Texas A&M,TX,"$10,000 ",Scouting
+10,307,Astros,Dustin Hunt,RHP,Northeastern,MA,"$130,000 ",Scouting
+10,308,Yankees,Trevor Lane,LHP,Illinois-Chicago,IL,"$10,000 ",Scouting
+10,309,Rangers,Josh Merrigan,OF,Georgia-Gwinnett,GA,"$5,000 ",Scouting
+10,310,Mets,Gene Cone,OF,South Carolina,SC,"$150,000 ",Scouting
+10,311,Dodgers,Kevin Lachance,SS,Maryland-Baltimore County,MD,"$2,500 ",Scouting
+10,312,Blue Jays,Kirby Snead,LHP,Florida,FL,"$125,000 ",Scouting
+10,313,Royals,Richard Lovelady,LHP,Kennesaw State,GA,"$100,000 ",Scouting
+10,314,Cubs,Dakota Mekkes,RHP,Michigan State,MI,"$275,000 ",Scouting
+10,315,Pirates,Matt Anderson,RHP,Morehead State,KY,"$10,000 ",Scouting
+10,316,Cardinals,Danny Hudzina,3B,Western Kentucky,KY,"$3,000 ",Scouting
+11,317,Phillies,Josh Stephen,OF,"Mater Dei HS, Santa Ana, Calif.",CA,"$600,000 ",Scouting
+11,318,Reds,Joel Kuhnel,RHP,Texas-Arlington,TX,"$125,000 ",Scouting
+11,319,Braves,Matt Rowland,RHP,"Pope HS, Marietta, Ga.",GA,"$400,000 ",Scouting
+11,320,Rockies,Bryan Baker,RHP,North Florida,FL,"$100,000 ",
+11,321,Brewers,Chad McClanahan,3B,"Brophy Prep, Phoenix",AZ,"$1,200,000 ",Scouting
+11,322,Athletics,Eli White,SS,Clemson,SC,"$100,000 ",Scouting
+11,323,Marlins,Chad Smith,RHP,Mississippi,MS,"$100,000 ",Scouting
+11,324,Padres,Tre Carter,OF,Soddy-Daisy (Tenn.) HS,TN,"$100,000 ",Scouting
+11,325,Tigers,Zac Houston,RHP,Mississippi State,MS,"$190,000 ",Scouting
+11,326,White Sox,Ian Hamilton,RHP,Washington State,WA,"$101,800 ",Scouting
+11,327,Mariners,Michael Koval,RHP,Cal Poly Pomona,CA,"$100,000 ",Scouting
+11,328,Red Sox,Nick Quintana,SS,"Arbor View HS, Las Vegas",NV,Pool,Scouting
+11,329,Diamondbacks,Jake Polancic,RHP,"Yale SS, Abbotsford, B.C.",BC,"$100,000 ",
+11,330,Rays,Zack Thompson,LHP,"Wapahani HS, Selma, Ind.",IN,Pool,Scouting
+11,331,Orioles,Zach Muckenhirn,LHP,North Dakota,ND,"$100,000 ",Scouting
+11,332,Indians,Andrew Calica,OF,UC Santa Barbara,CA,"$100,000 ",Scouting
+11,333,Twins,Tyler Benninghoff,RHP,"Rockhurst HS, Kansas City, Mo.",MO,"$600,000 ",Scouting
+11,334,Nationals,Armond Upshaw,OF,Pensacola State (Fla.) JC,FL,"$400,000 ",
+11,335,Giants,Jason Delay,C,Vanderbilt,TN,Pool,Scouting
+11,336,Angels,Brennon Lund,OF,Brigham Young,UT,"$100,000 ",Scouting
+11,337,Astros,Chad Donato,RHP,West Virginia,WV,"$100,000 ",Scouting
+11,338,Yankees,Connor Jones,LHP,Georgia,GA,"$100,000 ",Scouting
+11,339,Rangers,Joe Barlow,RHP,Salt Lake CC,UT,"$85,000 ",Scouting
+11,340,Mets,Cameron Planck,RHP,"Rowan County HS, Morehead, Ky.",KY,"$1,000,001 ",Scouting
+11,341,Dodgers,A.J. Alexy,RHP,"Twin Valley HS, Elverson, Pa.",PA,"$597,500 ",Scouting
+11,342,Blue Jays,Travis Hosterman,LHP,"Hagerty HS, Oviedo, Fla.",FL,"$400,000 ",
+11,343,Royals,Vance Vizcaino,OF,Stetson,FL,"$105,000 ",
+11,344,Cubs,Michael Rucker,RHP,Brigham Young,UT,"$180,000 ",Scouting
+11,345,Pirates,Max Kranick,RHP,"Valley View HS, Archbald, Pa.",PA,"$300,000 ",Scouting
+11,346,Cardinals,John Kilichowski,LHP,Vanderbilt,TN,"$200,000 ",Scouting
+12,347,Phillies,Justin Miller,RHP,"Central HS, Fresno",CA,"$100,000 ",
+12,348,Reds,Cassidy Brown,C,Loyola Marymount,CA,"$120,000 ",Scouting
+12,349,Braves,Brandon S. White,RHP,Lander (S.C.),SC,"$100,000 ",
+12,350,Rockies,Brandon Gold,RHP,Georgia Tech,GA,"$100,000 ",Scouting
+12,351,Brewers,Trever Morrison,SS,Oregon State,OR,"$110,000 ",Scouting
+12,352,Athletics,Luke Persico,OF,UCLA,CA,"$100,000 ",Scouting
+12,353,Marlins,Mike King,RHP,Boston College,MA,"$100,000 ",Scouting
+12,354,Padres,Jamie Sara,RHP,"West Potomac HS, Alexandria, Va.",VA,Pool,
+12,355,Tigers,Daniel Woodrow,OF,Creighton,NE,"$150,000 ",
+12,356,White Sox,Mitch Roman,SS,Wright State,OH,"$88,000 ",Scouting
+12,357,Mariners,Tim Viehoff,LHP,Southern New Hampshire,NH,"$5,000 ",
+12,358,Red Sox,Matthew Gorst,RHP,Georgia Tech,GA,"$115,000 ",Scouting
+12,359,Diamondbacks,Gavin Stupienski,C,UNC Wilmington,NC,"$50,000 ",Scouting
+12,360,Rays,Brandon Lawson,RHP,South Florida,FL,"$100,000 ",Scouting
+12,361,Orioles,Max Knutson,LHP,Nebraska,NE,"$100,000 ",Scouting
+12,362,Indians,Zach Plesac,RHP,Ball State,IN,"$100,000 ",Scouting
+12,363,Twins,Zach Featherstone,OF,Tallahassee (Fla.) CC,FL,"$100,000 ",
+12,364,Nationals,Hayden Howard,LHP,Texas Tech,TX,"$100,000 ",
+12,365,Giants,Ryan Kirby,1B,San Diego,CA,"$100,000 ",Scouting
+12,366,Angels,Bo Tucker,LHP,Georgia,GA,"$100,000 ",
+12,367,Astros,Carmen Benedetti,LHP,Michigan,MI,"$100,000 ",Scouting
+12,368,Yankees,Taylor Widener,RHP,South Carolina,SC,"$100,000 ",Scouting
+12,369,Rangers,Alex Kowalczyk,C,Pittsburgh,NC,"$5,000 ",
+12,370,Mets,Matt Cleveland,RHP,Windsor (Conn.) HS,CT,"$300,000 ",Scouting
+12,371,Dodgers,Graham Ashcraft,RHP,Huntsville (Ala.) HS,AL,Pool,Scouting
+12,372,Blue Jays,Ridge Smith,C,Austin Peay State,TN,"$80,000 ",
+12,373,Royals,Jeremy Gwinn,RHP,Colby (Kan.) CC,KS,"$100,000 ",
+12,374,Cubs,Trey Cobb,RHP,Oklahoma State,OK,Pool,Scouting
+12,375,Pirates,Arden Pabst,C,Georgia Tech,GA,"$75,000 ",
+12,376,Cardinals,Brady Whalen,SS,"Union HS, Camas, Wash.",WA,"$475,000 ",
+13,377,Phillies,Andrew Brown,RHP,"Granite Hills HS, El Cajon, Calif.",CA,"$100,000 ",
+13,378,Reds,Ryan Olson,RHP,Cal Poly Pomona,CA,"$250,000 ",
+13,379,Braves,Brandon T. White,RHP,Davenport (Mich.),MI,"$85,000 ",
+13,380,Rockies,Taylor Snyder,SS,Colorado State-Pueblo,CO,"$50,000 ",
+13,381,Brewers,Thomas Jankins,RHP,Quinnipiac,CT,"$100,000 ",Scouting
+13,382,Athletics,Nate Mondou,2B,Wake Forest,NC,"$100,000 ",Scouting
+13,383,Marlins,Nick Eicholtz,RHP,Alabama,AL,Pool,Scouting
+13,384,Padres,Joe Galindo,RHP,New Mexico State,NM,"$100,000 ",Scouting
+13,385,Tigers,Brady Policelli,C,Towson,MD,"$75,000 ",
+13,386,White Sox,Michael Hickman,C,Chipola (Fla.) JC,FL,"$100,000 ",
+13,387,Mariners,Reggie McClain,RHP,Missouri,MO,"$5,000 ",Scouting
+13,388,Red Sox,Brady Bramlett,RHP,Mississippi,MS,Pool,
+13,389,Diamondbacks,Manny Jefferson,2B,Pepperdine,CA,"$100,000 ",Scouting
+13,390,Rays,Nathan Lowe,1B,Mississippi State,MS,"$100,000 ",
+13,391,Orioles,Brandon Bonilla,LHP,Hawaii Pacific,HI,,Scouting
+13,392,Indians,Gavin Collins,C,Mississippi State,MS,"$100,000 ",
+13,393,Twins,Ryan Mason,RHP,California,CA,"$5,000 ",
+13,394,Nationals,Conner Simonetti,1B,Kent State,OH,"$40,000 ",Scouting
+13,395,Giants,Jose Layer,OF,"Angel David HS, San Juan, P.R.",PR,"$150,000 ",Scouting
+13,396,Angels,Anthony Molina,RHP,"West Broward HS, Hollywood, Fla.",FL,Pool,Scouting
+13,397,Astros,Ryne Birk,2B,Texas A&M,TX,"$100,000 ",Scouting
+13,398,Yankees,Brian Trieglaff,RHP,Texas Christian,TX,"$100,000 ",
+13,399,Rangers,Jonah McReynolds,SS,Patrick Henry (Va.) CC,VA,"$100,000 ",Scouting
+13,400,Mets,Dan Rizzie,C,Xavier,OH,"$50,000 ",Scouting
+13,401,Dodgers,Cody Thomas,OF,Oklahoma,OK,"$297,500 ",Scouting
+13,402,Blue Jays,Chris Lincoln,RHP,"Rancho Verde HS, Moreno Valley, Calif.",CA,Pool,
+13,403,Royals,Logan Gray,2B,Austin Peay State,TN,"$100,000 ",Scouting
+13,404,Cubs,Wyatt Short,LHP,Mississippi,MS,"$50,000 ",
+13,405,Pirates,John Pomeroy,RHP,Oregon State,OR,"$100,000 ",
+13,406,Cardinals,Shane Billings,OF,Wingate (N.C.),NC,"$50,000 ",Scouting
+14,407,Phillies,Darick Hall,1B,Dallas Baptist,TX,"$95,000 ",Scouting
+14,408,Reds,Jesse Adams,LHP,Boston College,MA,"$5,000 ",
+14,409,Braves,Ramon Osuna,1B,Walters State (Tenn.) CC,TN,"$100,000 ",
+14,410,Rockies,Matt Dennis,RHP,Bradley,IL,"$100,000 ",
+14,411,Brewers,Gabriel Garcia,C,Broward (Fla.) CC,FL,"$150,000 ",
+14,412,Athletics,Nolan Blackwood,RHP,Memphis,TN,"$90,000 ",
+14,413,Marlins,Michael Mertz,RHP,Oklahoma State,TX,"$100,000 ",Scouting
+14,414,Padres,Jared Poche,LHP,Louisiana State,LA,Pool,Scouting
+14,415,Tigers,Austin Athmann,C,Minnesota,MN,"$100,000 ",Scouting
+14,416,White Sox,Bryan Saucedo,RHP,Davenport (Mich.),MI,"$100,000 ",Scouting
+14,417,Mariners,Kyle Davis,RHP,Southern California,CA,"$5,000 ",Scouting
+14,418,Red Sox,Robby Sexton,LHP,Wright State,OH,"$100,000 ",Scouting
+14,419,Diamondbacks,Colin Poche,LHP,Dallas Baptist,TX,"$100,000 ",Scouting
+14,420,Rays,Miles Mastrobuoni,2B,Nevada,NV,"$100,000 ",
+14,421,Orioles,Ruben Garcia,RHP,Eastern Florida State JC,FL,"$100,000 ",
+14,422,Indians,Mitch Longo,OF,Ohio,OH,"$100,000 ",Scouting
+14,423,Twins,Andre Jernigan,SS,Xavier,OH,"$30,000 ",Scouting
+14,424,Nationals,Kyle Simonds,RHP,Texas A&M,TX,"$1,000 ",Scouting
+14,425,Giants,Conner Menez,LHP,The Masters (Calif.),CA,"$75,000 ",
+14,426,Angels,Francisco Del Valle,OF,"Puerto Rico Baseball Academy, Gurabo, P.R.",PR,"$100,000 ",
+14,427,Astros,Carson LaRue,RHP,Cowley County (Kan.) CC,KS,"$100,000 ",Scouting
+14,428,Yankees,Jordan Scott,OF,"IMG Academy, Bradenton, Fla.",FL,"$100,000 ",
+14,429,Rangers,Derek Heffel,RHP,Madison (Wis.) JC,WI,"$100,000 ",
+14,430,Mets,Christian James,RHP,"East Lake HS, Tarpon Springs, Fla.",FL,"$100,000 ",
+14,431,Dodgers,Dean Kremer,RHP,Nevada-Las Vegas,NV,"$147,500 ",
+14,432,Blue Jays,Chris Hall,RHP,Elon,NC,"$70,000 ",Scouting
+14,433,Royals,David McKay,RHP,Florida Atlantic,FL,"$100,000 ",
+14,434,Cubs,Parker Dunshee,RHP,Wake Forest,NC,Pool,Scouting
+14,435,Pirates,Hagen Owenby,C,East Tennessee State,TN,Pool,
+14,436,Cardinals,Vince Jackson,OF,Tennessee,TN,"$3,000 ",Scouting
+15,437,Phillies,Alex Wojciechowski,1B,Minnesota-Duluth,MN,Pool,
+15,438,Reds,Jesse Stallings,RHP,Louisiana State,LA,"$150,000 ",Scouting
+15,439,Braves,Zach Becherer,RHP,Rend Lake (Ill.) JC,IL,"$175,000 ",
+15,440,Rockies,Justin Valdespina,RHP,Southern New Hampshire,NH,"$75,000 ",Scouting
+15,441,Brewers,Scott Serigstad,RHP,Cal State Fullerton,CA,"$100,000 ",
+15,442,Athletics,Ty Damron,LHP,Texas Tech,TX,"$120,000 ",Scouting
+15,443,Marlins,James Nelson,SS,Cisco (Texas) JC,TX,"$75,000 ",
+15,444,Padres,Jack Suwinski,OF,"Taft HS, Chicago",IL,"$550,000 ",Scouting
+15,445,Tigers,John Schreiber,RHP,Northwestern Ohio,OH,"$6,000 ",
+15,446,White Sox,Jake Elliott,RHP,Oklahoma,OK,"$100,000 ",Scouting
+15,447,Mariners,Danny Garcia,LHP,Miami,FL,"$100,000 ",Scouting
+15,448,Red Sox,Michael Wilson,SS,Colonia (N.J.) HS,NJ,Pool,
+15,449,Diamondbacks,Tyler Keele,RHP,Morehead State,KY,"$2,500 ",Scouting
+15,450,Rays,Dalton Moats,LHP,Delta State (Miss.),MS,"$50,000 ",
+15,451,Orioles,Nick Jobst,RHP,South Carolina-Aiken,SC,"$100,000 ",
+15,452,Indians,Zack Smith,C,"Eastern Wayne HS, Goldsboro, N.C.",NC,Pool,Scouting
+15,453,Twins,Tyler Wells,RHP,Cal State San Bernardino,CA,"$90,000 ",
+15,454,Nationals,Ryan Williamson,LHP,North Carolina State,NC,"$100,000 ",Scouting
+15,455,Giants,D.J. Myers,RHP,Nevada-Las Vegas,NV,"$60,000 ",
+15,456,Angels,Mike Kaelin,RHP,Buffalo,NY,"$100,000 ",Scouting
+15,457,Astros,Alex DeGoti,SS,Barry (Fla.),FL,"$2,000 ",
+15,458,Yankees,Tony Hernandez,LHP,Monroe (N.Y.) JC,NY,"$100,000 ",
+15,459,Rangers,Kobie Taylor,OF,Portsmouth (N.H.) HS,NH,"$350,000 ",Scouting
+15,460,Mets,Jacob Zanon,OF,Lewis-Clark State (Idaho),ID,"$100,000 ",
+15,461,Dodgers,Brayan Morales,OF,Hillsborough (Fla.) CC,FL,"$122,500 ",
+15,462,Blue Jays,Josh Winckowski,RHP,Estero (Fla.) HS,FL,"$125,000 ",
+15,463,Royals,Mike Messier,LHP,Bellarmine (Ky.),KY,"$25,000 ",
+15,464,Cubs,Jed Carter,RHP,Auburn-Montgomery (Ala.),AL,"$100,000 ",
+15,465,Pirates,Danny Beddes,RHP,Utah Valley,UT,"$5,000 ",Scouting
+15,466,Cardinals,J.R. Davis,2B,Oklahoma State,OK,"$100,000 ",Scouting
+16,467,Phillies,Brett Barbier,C,Cal Poly,CA,"$100,000 ",Scouting
+16,468,Reds,Mauro Conde,OF,"Cupeyville School, San Juan, P.R.",PR,"$100,000 ",
+16,469,Braves,Josh Anthony,3B,Western Oklahoma State JC,OK,Pool,
+16,470,Rockies,Will Haynie,C,Alabama,AL,"$100,000 ",Scouting
+16,471,Brewers,Louie Crow,RHP,Buena Park (Calif.) HS,CA,Pool,
+16,472,Athletics,Anthony Churlin,OF,"Island Coast HS, Cape Coral, Fla.",FL,"$175,000 ",
+16,473,Marlins,Dustin Beggs,RHP,Kentucky,KY,"$10,000 ",Scouting
+16,474,Padres,Chris Mattison,C,Southeastern (Fla.),FL,"$80,000 ",
+16,475,Tigers,Will Savage,2B,Columbia,NY,"$75,000 ",
+16,476,White Sox,Ben Wright,RHP,Nevada-Las Vegas,NV,"$10,000 ",
+16,477,Mariners,Lyle Lin,C,"JSerra HS, San Juan Capistrano, Calif.",CA,Pool,
+16,478,Red Sox,Alberto Schmidt,C,"San Angel David HS, San Juan, P.R.",PR,"$100,000 ",
+16,479,Diamondbacks,Nick Blackburn,RHP,Illinois,IL,,Scouting
+16,480,Rays,Dominic Miroglio,C,San Francisco,CA,Pool,
+16,481,Orioles,Willie Rios,LHP,Florida Southwestern JC,FL,"$107,300 ",Scouting
+16,482,Indians,Ben Krauth,LHP,Kansas,KS,,Scouting
+16,483,Twins,Tyler Beardsley,RHP,Sacramento State,CA,,
+16,484,Nationals,Phil Morse,RHP,Shenandoah (Va.),VA,,
+16,485,Giants,Chris Falwell,LHP,Texas A&M-Corpus Christi,TX,"$100,000 ",
+16,486,Angels,Keith Grieshaber,SS,Jefferson (Mo.) JC,MO,"$100,000 ",
+16,487,Astros,Spencer Johnson,OF,Missouri State,MO,,Scouting
+16,488,Yankees,Zach Linginfelter,RHP,"Sevier County HS, Sevierville, Tenn.",TN,Pool,Scouting
+16,489,Rangers,Scott Engler,RHP,Cowley County (Kan.) CC,KS,"$125,000 ",
+16,490,Mets,Trent Johnson,RHP,Santa Fe (Fla.) CC,FL,"$80,000 ",
+16,491,Dodgers,Darien Tubbs,OF,Memphis,TN,"$100,000 ",
+16,492,Blue Jays,Dominic Taccolini,RHP,Arkansas,AR,Pool,Scouting
+16,493,Royals,Nick Heath,OF,Northwestern State,LA,"$100,000 ",
+16,494,Cubs,Holden Cammack,RHP,Oral Roberts,OK,,
+16,495,Pirates,Matt Diorio,OF,Central Florida,FL,"$100,000 ",
+16,496,Cardinals,Tyler Lancaster,C,Spartanburg Methodist (S.C.) JC,SC,,Scouting
+17,497,Phillies,Danny Zardon,3B,Nova Southeastern (Fla.),FL,"$80,000 ",Scouting
+17,498,Reds,Mitchell Traver,RHP,Texas Christian,TX,Pool,Scouting
+17,499,Braves,Devan Watts,RHP,Tusculum (Tenn.),TN,"$60,000 ",
+17,500,Rockies,Mike Bunal,RHP,Binghamton,NY,,
+17,501,Brewers,Weston Wilson,3B,Clemson,SC,"$80,000 ",Scouting
+17,502,Athletics,Seth Martinez,RHP,Arizona State,AZ,"$70,000 ",
+17,503,Marlins,Brent Wheatley,RHP,Southern California,CA,,
+17,504,Padres,Chris Baker,SS,Washington,WA,"$100,000 ",
+17,505,Tigers,Brandyn Sittinger,RHP,Ashland (Ohio),OH,,Scouting
+17,506,White Sox,Brad Haymes,RHP,Gardner-Webb,NC,,
+17,507,Mariners,Dimas Ojeda,OF,McLennan (Texas) CC,TX,"$100,000 ",
+17,508,Red Sox,Nick Sciortino,C,Boston College,MA,"$80,000 ",
+17,509,Diamondbacks,Jake Winston,RHP,Southern Mississippi,MS,,Scouting
+17,510,Rays,Wyatt Mills,RHP,Gonzaga,WA,Pool,
+17,511,Orioles,Tyler Blohm,LHP,"Arhcbiship Spalding HS, Severn, Md.",MD,Pool,
+17,512,Indians,Trenton Brooks,OF,Nevada,NV,"$100,000 ",
+17,513,Twins,Kidany Salva,C,"Klein Forest HS, Houston",TX,"$70,000 ",
+17,514,Nationals,Tyler Beckwith,SS,Richmond,VA,,
+17,515,Giants,Reagan Bazar,RHP,Louisiana-Lafayette,LA,"$100,000 ",Scouting
+17,516,Angels,Zach Gibbons,OF,Arizona,AZ,,
+17,517,Astros,Brian Howard,RHP,Texas Christian,TX,Pool,Scouting
+17,518,Yankees,Mandy Alvarez,3B,Eastern Kentucky,KY,,Scouting
+17,519,Rangers,Reid Anderson,RHP,Millersville (Pa.),PA,"$70,000 ",
+17,520,Mets,Jay Jabs,3B,Franklin Pierce (N.H.),NH,,
+17,521,Dodgers,Dillon Persinger,2B,Golden West (Calif.) JC,CA,Pool,
+17,522,Blue Jays,Clayton Keyes,OF,"Bishop Carroll HS, Calgary",AB,Pool,Scouting
+17,523,Royals,Dillon Drabble,RHP,Seminole State (Okla.) JC,OK,"$100,000 ",
+17,524,Cubs,Zack Short,SS,Sacred Heart,CT,"$80,000 ",
+17,525,Pirates,Matt Frawley,RHP,Purdue,IN,"$60,000 ",Scouting
+17,526,Cardinals,Matt Ellis,RHP,UC Riverside,CA,Pool,
+18,527,Phillies,Jake Kelzer,RHP,Indiana,IN,"$100,000 ",Scouting
+18,528,Reds,J.C. Flowers,OF,"Trinity Christian Academy, Jacksonville",FL,Pool,Scouting
+18,529,Braves,Zach Rice,LHP,North Carolina,NC,"$100,000 ",Scouting
+18,530,Rockies,Hunter Melton,1B,Texas A&M,TX,,Scouting
+18,531,Brewers,Cooper Hummel,C,Portland,OR,"$98,500 ",
+18,532,Athletics,Skyler Weber,C,Georgia,GA,"$85,000 ",
+18,533,Marlins,David Gauntt,C,Washburn (Kan.),KS,,
+18,534,Padres,Jaquez Williams,1B,"East Coweta HS, Sharpsburg, Ga.",GA,"$100,000 ",Scouting
+18,535,Tigers,Niko Buentello,1B,Auburn,AL,"$100,000 ",
+18,536,White Sox,Lane Hobbs,RHP,Concordia (Texas),TX,"$80,000 ",
+18,537,Mariners,Robert Dugger,RHP,Texas Tech,TX,"$70,000 ",
+18,538,Red Sox,Trevor Stephan,RHP,Hill (Texas) JC,TX,Pool,Scouting
+18,539,Diamondbacks,Bowden Francis,RHP,Chipola (Fla.) JC,FL,Pool,
+18,540,Rays,Sam Long,LHP,Sacramento State,CA,"$75,000 ",Scouting
+18,541,Orioles,Layne Bruner,LHP,Washington State,WA,,
+18,542,Indians,Raymond Burgos,LHP,"Pedro Falu Orellano HS, Rio Grande, P.R.",PR,,
+18,543,Twins,Timmy Richards,SS,Cal State Fullerton,CA,Pool,Scouting
+18,544,Nationals,Ben Braymer,LHP,Auburn,AL,"$100,000 ",Scouting
+18,545,Giants,Jacob Heyward,OF,Miami,FL,,Scouting
+18,546,Angels,David Oppenheim,OF,Southern California,CA,Pool,
+18,547,Astros,Colin McKee,RHP,Mercyhurst (Pa.),PA,,
+18,548,Yankees,Greg Weissert,RHP,Fordham,NY,"$75,000 ",
+18,549,Rangers,Marcus Mack,OF,Bellaire (Texas) HS,TX,"$175,000 ",
+18,550,Mets,Adam Atkins,RHP,Louisiana Tech,LA,,
+18,551,Dodgers,Cole Freeman,2B,Louisiana State,LA,Pool,Scouting
+18,552,Blue Jays,Bradley Jones,3B,College of Charleston,SC,"$60,000 ",Scouting
+18,553,Royals,Vance Tatum,LHP,Mississippi State,MS,"$60,000 ",
+18,554,Cubs,Marc Huberman,LHP,Southern California,CA,,
+18,555,Pirates,Kevin Mahala,RHP,George Washington,DC,"$80,000 ",
+18,556,Cardinals,Austin Sexton,RHP,Mississippi State,MS,"$100,000 ",Scouting
+19,557,Phillies,Will Hibbs,RHP,Lamar,TX,,
+19,558,Reds,Matt Blandino,RHP,Felician (N.J.),NJ,,
+19,559,Braves,Tucker Davidson,LHP,Midland (Texas) JC,TX,"$125,000 ",
+19,560,Rockies,Jacob Bosiokovic,1B,Ohio State,OH,"$40,000 ",Scouting
+19,561,Brewers,Zach Clark,OF,Pearl River (Miss.) CC,MS,"$125,000 ",Scouting
+19,562,Athletics,Sam Gilbert,RHP,Kansas,KS,,Scouting
+19,563,Marlins,Shane Sawczak,LHP,Palm Beach State (Fla.) JC,FL,,
+19,564,Padres,A.J. Brown,OF,Starkville (Miss.) HS,MS,,
+19,565,Tigers,Dustin Frailey,OF,Cal State Bakersfield,CA,,Scouting
+19,566,White Sox,Anthony Villa,1B,St. Mary's,CA,,
+19,567,Mariners,DeAires Moses,OF,Volunteer State (Tenn.) CC,TN,,
+19,568,Red Sox,Kyle Hart,LHP,Indiana,IN,,Scouting
+19,569,Diamondbacks,Mark Karaviotis,SS,Oregon,OR,"$100,000 ",
+19,570,Rays,Jim Haley,3B,Penn State,PA,"$60,000 ",
+19,571,Orioles,Cole Billingsley,OF,South Alabama,AL,"$62,500 ",Scouting
+19,572,Indians,Dakody Clemmer,RHP,Central Arizona JC,AZ,"$100,000 ",Scouting
+19,573,Twins,Sean Poppen,RHP,Harvard,MA,,
+19,574,Nationals,Jarrett Gonzales,C,"Madison HS, Dallas",TX,Pool,
+19,575,Giants,Brandon Van Horn,SS,The Master's (Calif.),CA,,
+19,576,Angels,Cody Ramer,SS,Arizona,AZ,,
+19,577,Astros,Taylor Jones,1B,Gonzaga,WA,,
+19,578,Yankees,Evan Alexander,OF,"Hebron HS, Carrollton, Texas",TX,"$100,000 ",
+19,579,Rangers,Alex Daniele,RHP,Oklahoma,OK,,
+19,580,Mets,Gary Cornish,RHP,San Diego,CA,,
+19,581,Dodgers,Chris Mathewson,RHP,Long Beach State,CA,"$202,000 ",
+19,582,Blue Jays,Spencer Van Scoyoc,LHP,"Jefferson HS, Cedar Rapids, Iowa",IA,Pool,Scouting
+19,583,Royals,Tyler Fallwell,RHP,Cochise (Ariz.) JC,AZ,"$102,500 ",Scouting
+19,584,Cubs,Matt Swarmer,RHP,Kutztown (Pa.),PA,,
+19,585,Pirates,Pearson McMahan,RHP,St. John's River State (Fla.) JC,FL,Pool,
+19,586,Cardinals,Daniel Castano,LHP,Baylor,TX,"$130,000 ",Scouting
+20,587,Phillies,Caleb Eldridge,1B,Cowley County (Kan.) CC,KS,"$90,000 ",
+20,588,Reds,Todd Lott,OF,"Trinity Christian Academy, Jacksonville",FL,Pool,Scouting
+20,589,Braves,Gabe Howell,2B,Trion (Ga.) HS,GA,"$100,000 ",
+20,590,Rockies,Kyle Cedotal,LHP,Southeast Louisiana,LA,,Scouting
+20,591,Brewers,Jared Horn,RHP,"Vintage HS, Napa, Calif.",CA,Pool,Scouting
+20,592,Athletics,Brigham Hill,RHP,Texas A&M,TX,Pool,Scouting
+20,593,Marlins,Eric Gutierrez,1B,Texas Tech,TX,,Scouting
+20,594,Padres,Dom DiSabatino,RHP,Harford (Md.) CC,MD,"$100,000 ",
+20,595,Tigers,Clate Schmidt,RHP,Clemson,SC,,Scouting
+20,596,White Sox,Matt Foster,RHP,Alabama,AL,,
+20,597,Mariners,Eric Filia,OF,UCLA,CA,,
+20,598,Red Sox,Nick Lovullo,SS,Holy Cross,MA,,
+20,599,Diamondbacks,Connor Grey,RHP,St. Bonaventure,NY,,
+20,600,Rays,Kevin Santiago,SS,Miami-Dade JC,FL,"$297,500 ",
+20,601,Orioles,Yelin Rodriguez,LHP,"Puerto Rico Baseball Academy, Gurabo, P.R.",PR,"$100,000 ",
+20,602,Indians,Ben Baird,SS,"Agoura HS, Agoura Hills, Calif.",CA,Pool,Scouting
+20,603,Twins,Shamoy Christopher,C,Roane State (Tenn.) CC,TN,Pool,
+20,604,Nationals,Jake Barnett,LHP,Lewis-Clark State (Idaho),ID,"$70,000 ",
+20,605,Giants,Justin Alleman,RHP,Lee (Tenn.),TN,,
+20,606,Angels,Jack Kruger,C,Mississippi State,MS,"$395,000 ",
+20,607,Astros,L.P. Pelletier,2B,Seminole State (Okla.) JC,OK,,
+20,608,Yankees,Miles Chambers,RHP,Cal State Fullerton,CA,"$75,000 ",
+20,609,Rangers,Stephen Lohr,3B,California Baptist,CA,,
+20,610,Mets,Carlos Cortes,2B,"Lake Howell HS, Winter Park, Fla.",FL,Pool,Scouting
+20,611,Dodgers,Brock Carpenter,3B,Seattle,WA,"$75,000 ",Scouting
+20,612,Blue Jays,Angel Alicea,RHP,Alabama State,AL,"$100,000 ",
+20,613,Royals,Anthony Bender,RHP,Santa Rosa (Calif.) JC,CA,"$172,500 ",Scouting
+20,614,Cubs,Colton Freeman,LHP,Alabama,AL,,
+20,615,Pirates,Adam Oller,RHP,Northwestern State,LA,"$70,000 ",
+20,616,Cardinals,Stefan Trosclair,1B,Louisiana-Lafayette,LA,,
+21,617,Phillies,Jonathan Hennigan,LHP,Texas State,TX,"$70,000 ",
+21,618,Reds,Andrew Wright,LHP,Southern California,CA,"$100,000 ",
+21,619,Braves,Dalton Carroll,RHP,Utah,UT,,Scouting
+21,620,Rockies,Tyler Bugner,OF,Newman (Kan.),KS,"$80,000 ",
+21,621,Brewers,Nathan Rodriguez,C,Cypress (Calif.) JC,CA,"$100,000 ",Scouting
+21,622,Athletics,Kyle Nowlin,OF,Eastern Kentucky,KY,,Scouting
+21,623,Marlins,Luis Pintor,SS,New Mexico JC,NM,,
+21,624,Padres,Taylor Kohlwey,OF,Wisconsin-La Crosse,WI,,
+21,625,Tigers,Joe Navilhon,RHP,Southern California,CA,,
+21,626,White Sox,Michael Horejsei,LHP,Ohio State,OH,,Scouting
+21,627,Mariners,Austin Grebeck,OF,Oregon,OR,"$80,000 ",
+21,628,Red Sox,Beau Capanna,SS,"Bishop Gorman HS, Las Vegas",NV,Pool,
+21,629,Diamondbacks,Cameron Cannon,SS,"Mountain Ridge HS, Glendale, Ariz.",AZ,Pool,Scouting
+21,630,Rays,John McMillon,3B,Jasper (Texas) HS,TX,Pool,Scouting
+21,631,Orioles,Chris Clare,SS,High Point,NC,"$65,000 ",
+21,632,Indians,Wil Crowe,RHP,South Carolina,SC,Pool,Scouting
+21,633,Twins,Domenick Carlini,LHP,Southeast Louisiana,LA,,Scouting
+21,634,Nationals,Jacob Howell,RHP,Delta State (Miss.),MS,"$55,000 ",
+21,635,Giants,Will Albertson,C,Catawba (N.C.),NC,,
+21,636,Angels,L.J. Kalawaia,OF,UNC Greensboro,NC,,
+21,637,Astros,Chuckie Robinson,C,Southern Mississippi,MS,"$100,000 ",
+21,638,Yankees,Timmy Robinson,OF,Southern California,CA,,
+21,639,Rangers,Kaleb Fontenot,RHP,McNeese State,LA,,
+21,640,Mets,Max Kuhns,RHP,Santa Clara,CA,"$75,000 ",
+21,641,Dodgers,James Carter,RHP,UC Santa Barbara,CA,"$100,000 ",
+21,642,Blue Jays,Mitch McKown,RHP,Seminole State (Fla.) JC,FL,"$75,000 ",
+21,643,Royals,Dalton Griffin,OF,"South Effingham HS, Guyton, Ga.",GA,"$105,000 ",
+21,644,Cubs,Sam Tidaback,C,North Georgia,GA,,
+21,645,Pirates,Matt Eckelman,RHP,Saint Louis,MO,,
+21,646,Cardinals,Cade Cabbiness,OF,Bixby (Okla.) HS,OK,Pool,Scouting
+22,647,Phillies,Kyle Young,LHP,"St. Dominic HS, Oyster Bay, N.Y.",NY,"$225,000 ",Scouting
+22,648,Reds,Aaron Quillen,RHP,Belmont,TN,,
+22,649,Braves,Alex Lee,1B,Samford,AL,,
+22,650,Rockies,Steven Linkous,OF,UNC Wilmington,NC,,Scouting
+22,651,Brewers,Cam Roegner,LHP,Bradley,IL,,
+22,652,Athletics,Roger Gonzalez,C,Winthrop,SC,,
+22,653,Marlins,Alex Mateo,RHP,Nova Southeastern (Fla.),FL,,
+22,654,Padres,Evan Miller,RHP,Indiana-Purdue Fort Wayne,IN,"$80,000 ",
+22,655,Tigers,Burris Warner,RHP,Marshall,WV,"$100,000 ",
+22,656,White Sox,Joel Booker,OF,Iowa,IA,,Scouting
+22,657,Mariners,Jansiel Rivera,OF,Mathuen (Mass.) HS,MA,"$125,000 ",
+22,658,Red Sox,Granger Studdard,OF,Texas State,TX,"$75,000 ",
+22,659,Diamondbacks,Kevin Ginkel,RHP,Arizona,AZ,,Scouting
+22,660,Rays,Freddy Villarreal,RHP,"Veterans Memorial HS, Mission, Texas",TX,Pool,
+22,661,Orioles,Nick Gruener,RHP,Harvard,MA,,
+22,662,Indians,Mason Studstill,RHP,Rockledge (Fla.) HS,FL,Pool,Scouting
+22,663,Twins,Hank Morrison,OF,Mercyhurst (Pa.),PA,,
+22,664,Nationals,Sterling Sharp,RHP,Drury (Mo.),MO,,
+22,665,Giants,Malique Ziegler,OF,North Iowa Area CC,IA,"$100,000 ",
+22,666,Angels,Troy Rallings,RHP,Washington,WA,Pool,Scouting
+22,667,Astros,Ray Henderson,C,Grayson County (Texas) CC,TX,"$100,000 ",
+22,668,Yankees,Blair Henley,RHP,"Arlington Heights HS, Fort Worth",TX,Pool,Scouting
+22,669,Rangers,Clay Middleton,C,Bethune-Cookman,FL,,
+22,670,Mets,Ian Strom,OF,Massachusetts-Lowell,MA,,
+22,671,Dodgers,Jeff Paschke,RHP,Southern California,CA,"$100,000 ",
+22,672,Blue Jays,Connor Eller,RHP,Ouachita Baptist (Ark.),AR,,
+22,673,Royals,Cody Nesbit,RHP,San Jacinto (Texas) JC,TX,"$100,000 ",
+22,674,Cubs,Dante Biasi,LHP,"Hazleton Area HS, Hazle Township, Pa.",PA,Pool,
+22,675,Pirates,Brandon Bingel,RHP,Bryant,RI,,
+22,676,Cardinals,Mick Fennell,OF,California (Pa.),PA,,
+23,677,Phillies,Camden Duzenack,SS,Dallas Baptist,TX,Pool,
+23,678,Reds,Manny Cruz,SS,Southern New Hampshire,NH,"$75,000 ",
+23,679,Braves,Griffin Benson,1B,Aledo (Texas) HS,TX,"$100,000 ",
+23,680,Rockies,Jared Gesell,RHP,UNC Wilmington,NC,,Scouting
+23,681,Brewers,Ronnie Gideon,1B,Texas A&M,TX,"$93,750 ",
+23,682,Athletics,Christian Young,RHP,Niagara County (N.Y.) CC,NY,Pool,
+23,683,Marlins,Hunter Wells,RHP,Gonzaga,WA,"$100,000 ",
+23,684,Padres,Nate Easley,2B,Yavapai (Ariz.) JC,AZ,"$100,000 ",
+23,685,Tigers,Bryan Torres,C,"Beltran Baseball Academy, Florida, P.R.",PR,"$100,000 ",
+23,686,White Sox,Sam Dexter,SS,Southern Maine,ME,,
+23,687,Mariners,Jack Anderson,RHP,Penn State,PA,,
+23,688,Red Sox,Juan Carlos Abreu,OF,Winter Springs (Fla.) HS,FL,"$100,000 ",
+23,689,Diamondbacks,Luke Van Rycheghem,C,"Ursuline College SS, Chatham, Ont.",ON,"$100,000 ",
+23,690,Rays,Isaac Benard,OF,Mount Hood (Ore.) CC,OR,,
+23,691,Orioles,Tyler Erwin,LHP,New Mexico State,NM,"$100,000 ",
+23,692,Indians,Michael Letkewicz,RHP,Augustana (S.D.),SD,,
+23,693,Twins,Caleb Hamilton,SS,Oregon State,OR,,
+23,694,Nationals,Michael Rishwain,RHP,Westmont (Calif.),CA,,
+23,695,Giants,Jake Greenwalt,RHP,Windsor (Colo.) HS,CO,"$80,000 ",
+23,696,Angels,Torii Hunter,OF,Notre Dame,IN,"$100,000 ",
+23,697,Astros,Tyler Britton,RHP,High Point,NC,,
+23,698,Yankees,Braden Bristo,RHP,Louisiana Tech,LA,"$55,000 ",
+23,699,Rangers,Dylan Bice,RHP,"Heritage HS, Ringgold, Ga.",GA,"$100,000 ",
+23,700,Mets,Nick Sergakis,2B,Ohio State,OH,,Scouting
+23,701,Dodgers,Bailey Ober,RHP,College of Charleston,SC,Pool,Scouting
+23,702,Blue Jays,Dom Abbadessa,OF,Huntington Beach (Calif.) HS,CA,"$150,000 ",
+23,703,Royals,Kort Peterson,OF,UCLA,CA,,Scouting
+23,704,Cubs,Delvin Zinn,SS,Itawamba (Miss.) CC,MS,"$100,000 ",Scouting
+23,705,Pirates,Garrett Brown,OF,Western Carolina,NC,,Scouting
+23,706,Cardinals,John Crowe,OF,Francis Marion (S.C.),SC,Pool,
+24,707,Phillies,Tyler Hallead,RHP,JC of Southern Nevada,NV,,
+24,708,Reds,Bruce Yari,1B,British Columbia,BC,,
+24,709,Braves,Matt Hearn,OF,Mission (Calif.) JC,CA,,
+24,710,Rockies,J.D. Hammer,RHP,Marshall,WV,,Scouting
+24,711,Brewers,Michael Gonzalez,RHP,Norwalk (Conn.) HS,CT,"$80,000 ",
+24,712,Athletics,Rob Bennie,OF,East Stroudsburg (Pa.),PA,,
+24,713,Marlins,J.J. Gould,SS,Jacksonville,FL,,
+24,714,Padres,Hunter Bishop,OF,"Serra HS, San Mateo, Calif.",CA,Pool,Scouting
+24,715,Tigers,Evan Hill,LHP,Michigan,MI,,Scouting
+24,716,White Sox,Brady Conlan,3B,Cal State Dominguez Hills,CA,,
+24,717,Mariners,Trey Griffey,OF,Arizona,AZ,,
+24,718,Red Sox,Hunter Smith,RHP,UNC Greensboro,NC,,
+24,719,Diamondbacks,Riley Smith,RHP,Louisiana State,LA,,
+24,720,Rays,Joe Serrapica,RHP,Fordham,NY,,
+24,721,Orioles,Zach Matson,LHP,Crowder (Mo.) JC,MO,"$75,000 ",
+24,722,Indians,Skylar Arias,LHP,Tallahassee (Fla.) CC,FL,"$100,000 ",
+24,723,Twins,Matt Byars,C,Michigan State,MI,Pool,
+24,724,Nationals,Joseph Baltrip,RHP,Wharton County (Texas) JC,TX,"$75,000 ",
+24,725,Giants,Jeffery Parra,C,"Ramapo HS, Spring Valley, N.Y.",NY,"$100,000 ",
+24,726,Angels,Brennan Morgan,C,Kennesaw State,GA,,
+24,727,Astros,Troy Sieber,C,St. Leo (Fla.),FL,"$70,000 ",
+24,728,Yankees,Joe Burton,OF,Harford (Md.) CC,MD,"$100,000 ",Scouting
+24,729,Rangers,Kenny Mendoza,LHP,"Clearview Regional HS, Mullica Hill, N.J.",NJ,"$100,000 ",Scouting
+24,730,Mets,Dariel Rivera,RHP,"Dr. Juan J. Osuna HS, Caguas, P.R.",PR,,
+24,731,Dodgers,Saige Jenco,OF,Virginia Tech,VA,"$75,000 ",Scouting
+24,732,Blue Jays,Mike Ellenbest,RHP,Saginaw Valley State (Mich.),MI,"$75,000 ",
+24,733,Royals,Mike McCann,C,Seattle,WA,"$60,000 ",
+24,734,Cubs,Reynaldo Rivera,1B,Chipola (Fla.) JC,FL,Pool,Scouting
+24,735,Pirates,Austin Bodrato,3B,"St. Joseph Regional HS, Montvale, N.J.",NJ,Pool,
+24,736,Cardinals,Anthony Ciavarella,LHP,Monmouth,NJ,,
+25,737,Phillies,Trevor Bettencourt,RHP,UC Santa Barbara,CA,"$85,000 ",
+25,738,Reds,Colby Wright,2B,Kansas,KS,,Scouting
+25,739,Braves,Ryan O'Malley,3B,Sonoma State (Calif.),CA,"$100,000 ",
+25,740,Rockies,Heath Holder,RHP,Georgia,GA,,
+25,741,Brewers,Blake Lillis,LHP,"St. Thomas Aquinas HS, Overland Park, Kan.",KS,"$127,814 ",Scouting
+25,742,Athletics,Jeremiah McCray,OF,"King HS, Riverside, Calif.",CA,,
+25,743,Marlins,Mike Garzillo,2B,Lehigh,PA,,Scouting
+25,744,Padres,Luis Anguizola,C,Loyola (La.),LA,"$75,000 ",
+25,745,Tigers,John Hayes,RHP,Wichita State,KS,,
+25,746,White Sox,Charlie Madden,C,Mercer,GA,Pool,
+25,747,Mariners,Ryan Fucci,OF,Wright State,OH,Pool,Scouting
+25,748,Red Sox,Francisco Soto,RHP,Allen (Kan.) CC,KS,"$40,000 ",
+25,749,Diamondbacks,Myles Babitt,OF,Cal State East Bay,CA,,
+25,750,Rays,Matt Vogel,RHP,South Carolina,SC,,
+25,751,Orioles,Will Toffey,3B,Vanderbilt,TN,Pool,
+25,752,Indians,Jonathan Laureano,3B,Connors State (Okla.) JC,OK,"$100,000 ",
+25,753,Twins,Colton Davis,RHP,Western Carolina,NC,,
+25,754,Nationals,Branden Boggetto,SS,Southeast Missouri State,MO,,Scouting
+25,755,Giants,Mike Rescigno,RHP,Maryland,MD,Pool,
+25,756,Angels,Cam Williams,OF,Howard (Texas) JC,TX,,
+25,757,Astros,Kevin Hill,RHP,South Alabama,AL,,Scouting
+25,758,Yankees,Edel Luaces,OF,"Hialeah, Fla. (no school)",FL,,
+25,759,Rangers,Tra'mayne Holmes,2B,Wallace (Ala.) CC,AL,Pool,
+25,760,Mets,Cody Beckman,LHP,North Carolina State,NC,Pool,
+25,761,Dodgers,Chandler Eden,RHP,Texas Tech,TX,,Scouting
+25,762,Blue Jays,Casey Legumina,RHP,"Basha HS, Chandler, Ariz.",AZ,Pool,
+25,763,Royals,Robby Rinn,1B,Bryant,RI,,
+25,764,Cubs,Trent Giambrone,2B,Delta State (Miss.),MS,,
+25,765,Pirates,Hunter Owen,OF,Indiana State,IN,,
+25,766,Cardinals,Spencer Trayner,RHP,North Carolina,NC,"$100,000 ",
+26,767,Phillies,Tyler Kent,OF,Otterbein (Ohio),OH,,
+26,768,Reds,Patrick Riehl,RHP,Mars Hill (N.C.),NC,,
+26,769,Braves,Alan Crowley,C,Reedley (Calif.) JC,CA,"$100,000 ",
+26,770,Rockies,Austin Moore,RHP,West Texas A&M,TX,,
+26,771,Brewers,Nick Roscetti,SS,Iowa,IA,,Scouting
+26,772,Athletics,Charley Gould,1B,William & Mary,VA,,
+26,773,Marlins,Gunner Pollman,C,Sacramento State,CA,"$60,000 ",
+26,774,Padres,Grae Kessinger,SS,Oxford (Miss.) HS,MS,Pool,Scouting
+26,775,Tigers,Colyn O'Connell,RHP,Florida Atlantic,FL,,
+26,776,White Sox,Zach Farrar,OF,"Carroll HS, Southlake, Texas",TX,Pool,
+26,777,Mariners,Elliot Surrey,LHP,UC Irvine,CA,,
+26,778,Red Sox,Jared Oliver,RHP,Truett-McConnell (Ga.),GA,,
+26,779,Diamondbacks,Tanner Hill,1B,Texas State,TX,,
+26,780,Rays,Justin Glover,LHP,Buford (Ga.) HS,GA,Pool,Scouting
+26,781,Orioles,Jaime Estrada,1B,Central Arizona JC,AZ,"$75,000 ",
+26,782,Indians,Tanner Tully,LHP,Ohio State,OH,"$100,000 ",
+26,783,Twins,Greg Deichmann,3B,Louisiana State,LA,Pool,
+26,784,Nationals,Jack Sundberg,OF,Connecticut,CT,,
+26,785,Giants,Nick Hill,OF,Eckerd (Fla.),FL,,
+26,786,Angels,Derek Jenkins,OF,Seton Hall,NJ,,
+26,787,Astros,Avery Tuck,OF,"Steele Canyon HS, Spring Valley, Calif.",CA,Pool,Scouting
+26,788,Yankees,Gage Burland,RHP,Gonzaga,WA,Pool,
+26,789,Rangers,Tyree Thompson,RHP,"Karr HS, New Orleans",LA,"$100,000 ",
+26,790,Mets,Rylan Thomas,3B,Windermere (Fla.) Prep HS,FL,Pool,
+26,791,Dodgers,Brandon Montgomery,2B,San Jacinto (Texas) JC,TX,"$60,000 ",
+26,792,Blue Jays,Ben Anderson,RHP,"Shenendehowa HS, Clifton Park, N.Y.",NY,Pool,
+26,793,Royals,John Brontsema,3B,UC Irvine,CA,"$80,000 ",
+26,794,Cubs,Austin Jones,RHP,Wisconsin-Whitewater,WI,Pool,
+26,795,Pirates,Robbie Coursel,RHP,Florida Atlantic,FL,,
+26,796,Cardinals,Eric Carter,RHP,Louisiana-Lafayette,LA,,
+27,797,Phillies,Davis Agle,RHP,Spartanburg Methodist JC (S.C.),SC,Pool,
+27,798,Reds,Dion Henderson,LHP,"Dearborn, Mich. (no school)",MI,Pool,Scouting
+27,799,Braves,Corbin Clouse,LHP,Davenport (Mich.),MI,"$65,000 ",
+27,800,Rockies,George Thanopoulos,RHP,Columbia,NY,,
+27,801,Brewers,Nick Cain,OF,Faulkner (Ala.),AL,,
+27,802,Athletics,Cole Gruber,OF,Nebraska-Omaha,NE,,Scouting
+27,803,Marlins,Parker Bugg,RHP,Louisiana State,LA,,Scouting
+27,804,Padres,Chasen Ford,RHP,Yale,CT,"$60,000 ",
+27,805,Tigers,Chad Sedio,SS,Miami (Ohio),OH,,Scouting
+27,806,White Sox,Mike Morrison,RHP,Coastal Carolina,SC,,
+27,807,Mariners,Paul Covelle,RHP,Franklin Pierce (N.H.),NH,,
+27,808,Red Sox,Vince Arobio,RHP,Pacific,CA,Pool,
+27,809,Diamondbacks,Gabe Gonzalez,RHP,JC of Southern Nevada,NV,"$75,000 ",Scouting
+27,810,Rays,Robbie Tenerowicz,2B,California,CA,,
+27,811,Orioles,Daniel Bakst,3B,"Poly Prep Country Day HS, Brooklyn",NY,Pool,Scouting
+27,812,Indians,Nelson Alvarez,RHP,"Braddock HS, Miami",FL,Pool,
+27,813,Twins,Scott Ogrin,OF,"Valencia HS, Santa Clarita, Calif.",CA,Pool,
+27,814,Nationals,Jeremy McDonald,LHP,California Baptist,CA,,
+27,815,Giants,Pat Ruotolo,RHP,Connecticut,CT,,
+27,816,Angels,Greg Belton,RHP,Sam Houston State,TX,,
+27,817,Astros,Nathan Thompson,LHP,Oklahoma Baptist,OK,,
+27,818,Yankees,Phillip Diehl,LHP,Louisiana Tech,LA,,Scouting
+27,819,Rangers,Lucas Jacobsen,LHP,Long Beach State,CA,"$75,000 ",
+27,820,Mets,Joel Urena,LHP,"Luperon HS for Math & Science, New York",NY,Pool,
+27,821,Dodgers,Austin French,LHP,Brown,RI,,
+27,822,Blue Jays,Ryan Gold,C,"Carolina Forest HS, Myrtle Beach, S.C.",SC,"$100,000 ",
+27,823,Royals,Rex Hill,LHP,Texas Christian,TX,,
+27,824,Cubs,Connor Myers,OF,Old Dominion,VA,,
+27,825,Pirates,Tyler Leffler,SS,Bradley,IL,,
+27,826,Cardinals,Mike O'Reilly,RHP,Flagler (Fla.),FL,,
+28,827,Phillies,Jordan Kurokawa,RHP,Hawaii-Hilo,HI,,Scouting
+28,828,Reds,Cooper Johnson,C,"Carmel HS, Mundelein, Ill.",IL,Pool,Scouting
+28,829,Braves,Nick Shumpert,2B,San Jacinto (Texas) JC,TX,,Scouting
+28,830,Rockies,Ryan Luna,RHP,Sonoma State (Calif.),CA,,
+28,831,Brewers,Andrew Vernon,RHP,Noth Carolina Central,NC,,Scouting
+28,832,Athletics,Josh Vidales,2B,Houston,TX,,
+28,833,Marlins,Colby Lusignan,1B,Lander (S.C.),SC,,
+28,834,Padres,Ethan Skender,SS,State JC of Florida,FL,"$465,000 ",
+28,835,Tigers,Alex Cunningham,RHP,Coastal Carolina,SC,Pool,Scouting
+28,836,White Sox,Aaron Schnurbusch,OF,Pittsburgh,PA,,
+28,837,Mariners,Nathan Bannister,RHP,Arizona,AZ,,
+28,838,Red Sox,Jordan Scheftz,RHP,Saddleback (Calif.) JC,CA,Pool,
+28,839,Diamondbacks,Edmond Americaan,OF,"Trinity Christian Academy, Lake Worth, Fla.",FL,Pool,Scouting
+28,840,Rays,Jean Ramirez,C,Illinois State,IL,,
+28,841,Orioles,Matt De La Rosa,RHP,Lenoir-Rhyne (N.C.),NC,,
+28,842,Indians,Jamal Rudledge,SS,Contra Costa (Calif.) JC,CA,,
+28,843,Twins,Matt Jones,LHP,"Sinclair SS, Whitby, Ont.",ON,"$70,000 ",
+28,844,Nationals,Jonny Reid,LHP,Azusa Pacific (Calif.),CA,,
+28,845,Giants,Jayden O'Dell,RHP,Angelo State (Texas),TX,Pool,
+28,846,Angels,David Hamilton,SS,San Marcos (Texas) HS,TX,Pool,Scouting
+28,847,Astros,Johnny Ruiz,2B,Miami,FL,Pool,
+28,848,Yankees,Will Jones,RHP,Lander (S.C.),SC,,
+28,849,Rangers,Marc Iseneker,RHP,St. John Fisher (N.Y.),NY,,
+28,850,Mets,William Sierra,RHP,"Edouard Montpetit HS, Montreal",QC,Pool,
+28,851,Dodgers,Jake Perkins,RHP,Ferrum (Va.),VA,,
+28,852,Blue Jays,Blake Ebo,OF,Trenton (N.J.) Catholic Academy,NJ,Pool,
+28,853,Royals,Yordany Salva,C,Broward (Fla.) CC,FL,,
+28,854,Cubs,Rian Bassett,RHP,Clark (Wash.) JC,WA,Pool,
+28,855,Pirates,Michael Danielak,RHP,Dartmouth,NH,Pool,
+28,856,Cardinals,Pat Krall,LHP,Clemson,SC,Pool,
+29,857,Phillies,Alexander Kline,LHP,Nova Southeastern (Fla.),FL,,Scouting
+29,858,Reds,Daniel Sweet,OF,Dallas Baptist,TX,,Scouting
+29,859,Braves,Jackson Pokorney,OF,"Mater Dei HS, Evansville, Ind.",IN,"$100,000 ",
+29,860,Rockies,Josh Shelley,RHP,Mobile (Ala.),AL,,
+29,861,Brewers,Brennan Price,RHP,Felician (N.J.),NJ,Pool,
+29,862,Athletics,Matt Milburn,RHP,Wofford,SC,,
+29,863,Marlins,Walker Olis,OF,Pacific,CA,,
+29,864,Padres,Collin Sullivan,RHP,Fort Pierce (Fla.) Central HS,FL,Pool,
+29,865,Tigers,Hunter Swilling,3B,Samford,AL,,
+29,866,White Sox,Caleb Henderson,1B,Central Arizona JC,AZ,Pool,
+29,867,Mariners,Steven Ridings,RHP,Messiah (Pa.),PA,,
+29,868,Red Sox,Cam Shepherd,SS,"Peachtree Ridge HS, Suwanee, Ga.",GA,Pool,
+29,869,Diamondbacks,Hunter Kiel,RHP,Pensacola State (Fla.) JC,FL,Pool,
+29,870,Rays,Trek Stemp,2B,Washington State,WA,,
+29,871,Orioles,Wil Dalton,OF,"Summit HS, Thompson's Station, Tenn.",TN,Pool,
+29,872,Indians,Spencer Steer,3B,"Millikan HS, Long Beach",CA,Pool,
+29,873,Twins,Dane Hutcheon,SS,Montevallo (Ala.),AL,,
+29,874,Nationals,Sam Held,RHP,Nevada,NV,,
+29,875,Giants,Mike Bernal,SS,Arkansas,AR,,
+29,876,Angels,Blake Smith,RHP,West Virginia,WV,,Scouting
+29,877,Astros,Elliott Barzilli,3B,Texas Christian,TX,Pool,Scouting
+29,878,Yankees,Bo Weiss,RHP,"Regis Jesuit HS, Aurora, Colo.",CO,Pool,Scouting
+29,879,Rangers,Robert Harris,OF,Marietta (Ga.) HS,GA,Pool,
+29,880,Mets,Alex Haynes,RHP,"Central HS, Knoxville",TN,Pool,Scouting
+29,881,Dodgers,Will Kincanon,RHP,Triton (Ill.) JC,IL,Pool,
+29,882,Blue Jays,Andrew Deramo,RHP,Central Florida,FL,"$60,000 ",
+29,883,Royals,Grant Gavin,RHP,Central Missouri,MO,,
+29,884,Cubs,Tyler Peyton,RHP,Iowa,IA,,Scouting
+29,885,Pirates,Geoff Hartlieb,RHP,Lindenwood (Mo.),MO,,
+29,886,Cardinals,Noel Gonzalez,RHP,Lewis-Clark State (Idaho),ID,,
+30,887,Phillies,Logan Davidson,SS,"Providence HS, Charlotte",NC,Pool,Scouting
+30,888,Reds,Vincent Byrd,1B,Long Beach CC,CA,Pool,
+30,889,Braves,Cameron Stanton,RHP,St. Edwards (Texas),TX,,
+30,890,Rockies,Rico Garcia,RHP,Hawaii Pacific,HI,,
+30,891,Brewers,Dalton Brown,RHP,Texas Tech,TX,,
+30,892,Athletics,Nick Highberger,RHP,Creighton,NE,,
+30,893,Marlins,Garrett Suchey,RHP,Wallace State (Ala.) CC,AL,Pool,
+30,894,Padres,Dalton Erb,RHP,Chico State (Calif.),CA,,
+30,895,Tigers,Dalton Lundeen,LHP,Valparaiso,IN,,
+30,896,White Sox,Pat Cashman,RHP,Southeastern Louisiana,LA,,
+30,897,Mariners,Tyler Duncan,OF,"Edward Milne SS, Sooke, B.C.",BC,Pool,
+30,898,Red Sox,Tyler Fitzgerald,SS,Rochester (Ill.) HS,IL,Pool,Scouting
+30,899,Diamondbacks,Brandon Martorano,C,"Christian Brothers Academy, Lincroft, N.J.",NJ,Pool,Scouting
+30,900,Rays,K.V. Edwards,SS,"Putnam City HS, Oklahoma City",OK,Pool,
+30,901,Orioles,Garrett Copeland,2B,Austin Peay State,TN,"$75,000 ",
+30,902,Indians,Ryder Ryan,RHP,North Carolina,NC,"$100,000 ",Scouting
+30,903,Twins,Quin Grogan,RHP,Lewis-Clark State (Idaho),ID,,
+30,904,Nationals,Tristan Clarke,OF,Eastern Oklahoma State JC,OK,Pool,
+30,905,Giants,Nick Deeg,LHP,Central Michigan,MI,,Scouting
+30,906,Angels,Robbie Peto,RHP,Monroe Township (N.J.) HS,NJ,Pool,Scouting
+30,907,Astros,Brody Westmoreland,3B,JC of Southern Nevada,NV,"$75,000 ",Scouting
+30,908,Yankees,Ben Ruta,OF,Wagner,NY,,
+30,909,Rangers,Christian Torres,LHP,Faulkner (Ala.),AL,,
+30,910,Mets,Eric Villanueva,RHP,"Josefina Barcelo HS, Guaynabo, P.R.",PR,,
+30,911,Dodgers,Ramon Rodriguez,C,"Puerto Rico Baseball Academy, Gurabo, P.R.",PR,"$100,000 ",
+30,912,Blue Jays,Jake Fishman,LHP,Union (N.Y.),NY,,Scouting
+30,913,Royals,Geoffrey Bramblett,RHP,Alabama,AL,"$102,500 ",
+30,914,Cubs,Montana Parsons,RHP,San Jacinto (Texas) JC,TX,Pool,Scouting
+30,915,Pirates,Chris Cook,SS,East Tennessee State,TN,Pool,
+30,916,Cardinals,Josh Burgmann,RHP,Vauxhall (Alberta) Academy of Baseball,AB,Pool,
+31,917,Phillies,Tyler Frohwirth,RHP,Minnesota State,MN,,
+31,918,Reds,Austin Langworthy,OF,Williston (Fla.) HS,FL,Pool,Scouting
+31,919,Braves,Cameron Jabara,RHP,"Newport Harbor HS, Newport Beach, Calif.",CA,Pool,
+31,920,Rockies,Kenny Oakley,RHP,Nevada-Las Vegas,NV,,
+31,921,Brewers,Ryan Aguilar,OF,Arizona,AZ,,
+31,922,Athletics,Sam Sheehan,RHP,Westmont (Calif.),CA,,
+31,923,Marlins,Preston Guillory,RHP,Texas Christian,TX,,
+31,924,Padres,G.K. Young,1B,Coastal Carolina,SC,,
+31,925,Tigers,Dalton Britt,SS,Liberty,VA,,
+31,926,White Sox,Brandon Bossard,SS,"Nazareth Academy, La Grange Park, Ill.",IL,Pool,
+31,927,Mariners,Lincoln Henzman,RHP,Louisville,KY,Pool,Scouting
+31,928,Red Sox,Christian Jones,OF,Federal Way (Wash.) HS,WA,Pool,Scouting
+31,929,Diamondbacks,Williams Durruthy,RHP,Florida International,FL,,
+31,930,Rays,Joey Roach,C,Georgia State,GA,,
+31,931,Orioles,Jake Ring,OF,Missouri,MO,"$100,000 ",Scouting
+31,932,Indians,Chris Farish,RHP,Wake Forest,NC,Pool,Scouting
+31,933,Twins,Juan Gamez,C,North Dakota State,ND,,
+31,934,Nationals,C.J. Picerni,C,New York,NY,,
+31,935,Giants,Adam Laskey,LHP,Haddon Heights (N.J.) HS,NJ,Pool,Scouting
+31,936,Angels,Johnny Morell,RHP,"Basha HS, Chandler, Ariz.",AZ,"$100,000 ",
+31,937,Astros,Howie Brey,LHP,Rutgers,NJ,,
+31,938,Yankees,Miles Sandum,LHP,"Granite Hills HS, El Cajon, Calif.",CA,Pool,Scouting
+31,939,Rangers,Blair Calvo,RHP,East Florida State JC,FL,Pool,
+31,940,Mets,Jeremy Wolf,OF,Trinity (Texas),TX,,
+31,941,Dodgers,Stevie Berman,C,Santa Clara,CA,,
+31,942,Blue Jays,Marcus Still,OF,Scottsdale (Ariz.) CC,AZ,Pool,
+31,943,Royals,Malcolm Van Buren,RHP,Hanahan (S.C.) HS,SC,"$147,500 ",
+31,944,Cubs,Brenden Heiss,RHP,"Jacobs HS, Algonquin, Ill.",IL,Pool,Scouting
+31,945,Pirates,Jordan Jess,LHP,Minnesota,MN,,
+31,946,Cardinals,J.D. Murders,2B,Bolivar (Mo.) HS,MO,"$200,000 ",
+32,947,Phillies,Daniel Garner,C,Northwestern State,LA,,
+32,948,Reds,Matt Crohan,LHP,Winthrop,SC,Pool,Scouting
+32,949,Braves,Ryan Schlosser,RHP,Century (Minn.) JC,MN,"$85,000 ",
+32,950,Rockies,John Hendry,RHP,"Notre Dame College Prep, Niles, Ill.",IL,Pool,
+32,951,Brewers,Wilson Adams,RHP,Alabama-Huntsville,AL,,
+32,952,Athletics,Colin Theroux,C,Oklahoma State,OK,,
+32,953,Marlins,Chevis Hoover,RHP,Tennessee Wesleyan,TN,,
+32,954,Padres,Ariel Burgos Garcia,RHP,Northern Oklahoma JC,OK,Pool,
+32,955,Tigers,Connor O'Neil,RHP,Cal State Northridge,CA,Pool,
+32,956,White Sox,Sean Renzi,RHP,Central Michgan,MI,,
+32,957,Mariners,Kenyon Yovan,RHP,"Westview HS, Portland, Ore.",OR,Pool,Scouting
+32,958,Red Sox,Jeff Belge,LHP,"Henninger HS, Syracuse",NY,Pool,Scouting
+32,959,Diamondbacks,Trevor Simms,RHP,Tulane,LA,,
+32,960,Rays,Deion Tansel,SS,Toledo,OH,,
+32,961,Orioles,Ryan Mauch,LHP,"South Hills HS, West Covina, Calif.",CA,Pool,
+32,962,Indians,Kramer Robertson,2B,Louisiana State,LA,Pool,Scouting
+32,963,Twins,Matt Wallner,RHP,Forest Lake (Minn.) HS,MN,Pool,
+32,964,Nationals,Garrett Gonzales,3B,"Madison HS, San Antonio",TX,Pool,
+32,965,Giants,John Timmins,RHP,Bellevue (Neb.),NE,,
+32,966,Angels,Doug Willey,RHP,Arkansas,AR,,
+32,967,Astros,Darius Vines,RHP,"St. Bonaventure HS, Ventura, Calif.",CA,Pool,
+32,968,Yankees,Juan Cabrera,RHP,"North Canyon HS, Phoenix",AZ,Pool,
+32,969,Rangers,Travis Bolin,OF,Davenport (Mich.),MI,,
+32,970,Mets,George Kirby,RHP,Rye (N.Y.) HS,NY,Pool,Scouting
+32,971,Dodgers,Connor Costello,RHP,Oklahoma State,OK,,Scouting
+32,972,Blue Jays,David Jacob,1B,Quincy (Ill.),IL,,Scouting
+32,973,Royals,Luke Bandy,OF,"Providence Classical Christian Academy, Rogers, Ark.",AR,Pool,Scouting
+32,974,Cubs,Zach Davis,OF,Texas Tech,TX,,
+32,975,Pirates,Ben Miller,1B,Nebraska,NE,Pool,
+32,976,Cardinals,Leland Tilley,RHP,Bellevue (Neb.),NE,,
+33,977,Phillies,Jack Klein,RHP,Stanford,CA,Pool,
+33,978,Reds,Nick Derr,2B,Sarasota (Fla.) HS,FL,Pool,
+33,979,Braves,Handsome Monica,C,Northwest Florida State JC,FL,Pool,
+33,980,Rockies,Tyler Orris,SS,Millersville (Pa.),PA,,
+33,981,Brewers,Emerson Gibbs,RHP,Tulane,LA,,
+33,982,Athletics,Jarrett Costa,C,Westmont (Calif.),CA,,
+33,983,Marlins,Branden Berry,1B,Cal State Northridge,CA,,
+33,984,Padres,Mark Zimmerman,RHP,Baldwin-Wallace (Ohio),OH,,
+33,985,Tigers,Keegan Thompson,RHP,Auburn,AL,Pool,Scouting
+33,986,White Sox,Ryan Boelter,LHP,Gardner-Webb,NC,,
+33,987,Mariners,Morgan McCullough,SS,West Seattle HS,WA,Pool,Scouting
+33,988,Red Sox,Chad Hardy,OF,Paris (Texas) JC,TX,"$75,000 ",
+33,989,Diamondbacks,Paxton De La Garza,SS,Angelo State (Texas),TX,,
+33,990,Rays,Hayden Wesneski,RHP,"Cy-Fair HS, Cypress, Texas",TX,Pool,
+33,991,Orioles,Markel Jones,OF,Brunswick (N.C.) CC,NC,"$80,000 ",
+33,992,Indians,Blake Sabol,C,"Aliso Niguel HS, Aliso Viejo, Calif.",CA,Pool,Scouting
+33,993,Twins,Clark Beeker,RHP,Davidson,NC,,Scouting
+33,994,Nationals,Ryan Wetzel,SS,"Heritage Christian Academy, Olathe, Kan.",KS,Pool,
+33,995,Giants,Jarrett Montgomery,RHP,Northwest Florida State JC,FL,Pool,Scouting
+33,996,Angels,Justin Kelly,LHP,UC Santa Barbara,CA,,
+33,997,Astros,Toby Handley,OF,Stony Brook,NY,Pool,
+33,998,Yankees,Bryson Bowman,OF,Western Carolina,NC,Pool,
+33,999,Rangers,Mark Vasquez,RHP,Faulkner (Ala.),AL,,
+33,1000,Mets,Duncan Pence,SS,"Farragut HS, Knoxville",TN,Pool,
+33,1001,Dodgers,Zach McKinstry,SS,Central Michigan,MI,"$100,000 ",Scouting
+33,1002,Blue Jays,Brayden Bouchey,RHP,Louisiana-Monroe,LA,,
+33,1003,Royals,Kameron Misner,OF,Poplar Bluff (Mo.) HS,MO,Pool,Scouting
+33,1004,Cubs,Nathan Sweeney,RHP,"Cherry Creek HS, Greenwood Village, Colo.",CO,"$100,000 ",
+33,1005,Pirates,Austin Shields,RHP,"St. Mary Catholic SS, Hamilton, Ont.",ON,"$205,000 ",Scouting
+33,1006,Cardinals,Caleb Lopes,2B,West Georgia,GA,"$100,000 ",
+34,1007,Phillies,Luke Maglich,OF,South Florida,FL,,
+34,1008,Reds,Ty Weber,RHP,Menomonie (Wis.) HS,WI,Pool,
+34,1009,Braves,Jared James,OF,Cal Poly Pomona,CA,,
+34,1010,Rockies,Wyatt Featherston,OF,"Green Mountain HS, Lakewood, Colo.",CO,Pool,
+34,1011,Brewers,Matt Smith,RHP,Georgetown,DC,,
+34,1012,Athletics,Casey Thomas,SS,Texas A&M-Corpus Christi,TX,,
+34,1013,Marlins,Trenton Hill,LHP,Lee (Tenn.),TN,,
+34,1014,Padres,Denzell Gowdy,3B,Darton State (Ga.) JC,GA,"$100,000 ",
+34,1015,Tigers,Gerardo Gonzalez,SS,"Puerto Rico Baseball Academy, Gurabo, P.R.",PR,,
+34,1016,White Sox,Jaxon Shirley,2B,Lapel (Ind.) HS,IN,Pool,
+34,1017,Mariners,David Ellingson,RHP,Georgetown,DC,,
+34,1018,Red Sox,Aaron McGarity,RHP,Virginia Tech,VA,Pool,
+34,1019,Diamondbacks,Connor Owings,OF,Coastal Carolina,SC,,Scouting
+34,1020,Rays,Bobby Melley,1B,Connecticut,CT,,
+34,1021,Orioles,Lucas Brown,RHP,Troy,AL,,
+34,1022,Indians,Austin Shenton,3B,Bellingham (Wash.) HS,WA,Pool,Scouting
+34,1023,Twins,Joe Cronin,SS,Boston College,MA,,
+34,1024,Nationals,Morgan Cooper,RHP,Texas,TX,Pool,Scouting
+34,1025,Giants,C.J. Gettman,RHP,Central Washington,WA,,Scouting
+34,1026,Angels,J.D. Nielsen,LHP,Illinois,IL,,
+34,1027,Astros,Stijn Van Der Meer,SS,Lamar,TX,,
+34,1028,Yankees,David Clawson,C,"Dana Hills HS, Dana Point, Calif.",CA,Pool,Scouting
+34,1029,Rangers,Preston Scott,OF,Fresno Pacific,CA,,
+34,1030,Mets,Anthony Herron,RHP,Jefferson (Mo.) JC,MO,Pool,Scouting
+34,1031,Dodgers,Joel Toribio,RHP,Western Oklahoma State JC,OK,,
+34,1032,Blue Jays,Shea Langeliers,C,Keller (Texas) HS,TX,Pool,Scouting
+34,1033,Royals,Nathan Webb,RHP,Lee's Summit (Mo.) HS,MO,"$60,000 ",
+34,1034,Cubs,Davis Daniel,RHP,"St. James School, Montgomery, Ala.",AL,Pool,Scouting
+34,1035,Pirates,Craig Dedelow,OF,Indiana,IN,Pool,Scouting
+34,1036,Cardinals,Jonathan Mulford,RHP,Adelphi (N.Y.),NY,,
+35,1037,Phillies,Carter Bins,C,"Rodriguez HS, Fairfield, Calif.",CA,Pool,
+35,1038,Reds,Walker Whitworth,2B,Northern Oklahoma JC,OK,Pool,
+35,1039,Braves,Michael Gizzi,RHP,State JC of Florida,FL,Pool,
+35,1040,Rockies,Michael Toglia,OF,Gig Harbor (Wash.) HS,WA,Pool,Scouting
+35,1041,Brewers,Chase Williams,RHP,Wichita State,KS,,
+35,1042,Athletics,Danny Rafferty,LHP,Bucknell,PA,Pool,
+35,1043,Marlins,Matt Brooks,2B,Monroe (N.Y.) CC,NY,,
+35,1044,Padres,David Bednar,RHP,Lafayette (Pa.),PA,,
+35,1045,Tigers,Jacob White,C,"Wakeland HS, Frisco, Texas",TX,Pool,
+35,1046,White Sox,Garrett Acton,RHP,Lemont (Ill.) HS,IL,Pool,Scouting
+35,1047,Mariners,Will Ethridge,RHP,"Parkview HS, Lilburn, Ga.",GA,Pool,Scouting
+35,1048,Red Sox,John Rave,OF,"Central Catholic HS, Bloomington, Ill.",IL,Pool,Scouting
+35,1049,Diamondbacks,Billy Endris,OF,Florida Atlantic,FL,,
+35,1050,Rays,Alex Estrella,LHP,New Mexico,NM,,
+35,1051,Orioles,Tanner Kirk,2B,Wichita State,KS,,
+35,1052,Indians,Armani Smith,OF,"De La Salle HS, Concord, Calif.",CA,Pool,Scouting
+35,1053,Twins,Austin Tribby,LHP,Missouri,MO,,
+35,1054,Nationals,Tristan Bayless,LHP,Hutto (Texas) HS,TX,Pool,
+35,1055,Giants,Sidney Duprey,LHP,Kaskaskia (Ill.) JC,IL,,
+35,1056,Angels,Sean Isaac,RHP,Vanguard (Calif.),CA,,
+35,1057,Astros,Nick Slaughter,C,Klein (Texas) HS,TX,Pool,
+35,1058,Yankees,Zack Hess,RHP,"Liberty Christian Academy, Lynchburg, Va.",VA,Pool,Scouting
+35,1059,Rangers,Jean Casanova,RHP,Waukegan (Ill.) HS,IL,,
+35,1060,Mets,Andrew Harbin,RHP,"Allatoona HS, Acworth, Ga.",GA,Pool,
+35,1061,Dodgers,Nick Yarnall,OF,Pittsburgh,PA,"$75,000 ",
+35,1062,Blue Jays,Jared Carkuff,RHP,Austin Peay State,TN,,
+35,1063,Royals,M.J. Sanchez,C,California Baptist,CA,,
+35,1064,Cubs,Ryan Kreidler,3B,Davis (Calif.) HS,CA,Pool,Scouting
+35,1065,Pirates,Pasquale Mazzoccoli,RHP,Texas State,TX,,
+35,1066,Cardinals,Jackson Lamb,RHP,Michigan,MI,Pool,Scouting
+36,1067,Phillies,Mac Sceroler,RHP,Southeastern Louisiana,LA,Pool,
+36,1068,Reds,Ty Blankmeyer,2B,St. John's,NY,,
+36,1069,Braves,Andres Perez,C,"Pinecrest Academy, Cumming, Ga.",GA,Pool,
+36,1070,Rockies,Trevor Edior,OF,Carson (Calif.) HS,CA,Pool,
+36,1071,Brewers,Parker Bean,RHP,Liberty,VA,,Scouting
+36,1072,Athletics,Brady Schanuel,RHP,Parkland (Ill.) JC,IL,Pool,
+36,1073,Marlins,Matt Popowitz,C,Suffern (N.Y.) HS,NY,Pool,
+36,1074,Padres,Quinn Hoffman,SS,"Cathedral Catholic HS, San Diego",CA,Pool,
+36,1075,Tigers,Drew Mendoza,3B,"Lake Minneola HS, Minneola, Fla.",FL,Pool,Scouting
+36,1076,White Sox,Reese Cooley,OF,Chipola (Fla.) JC,FL,Pool,
+36,1077,Mariners,Joe Venturino,2B,Ramapo (N.J.),NJ,,
+36,1078,Red Sox,Jordan Wren,OF,Georgia Southern,GA,Pool,
+36,1079,Diamondbacks,Rob Galligan,LHP,Maryland,MD,,
+36,1080,Rays,Anthony Parente,RHP,Fullerton (Calif.) JC,CA,,
+36,1081,Orioles,Ben Brecht,LHP,"New Trier HS, Winnetka, Ill.",IL,Pool,
+36,1082,Indians,Andrew Baker,LHP,"Ridge Community HS, Davenport, Fla.",FL,Pool,Scouting
+36,1083,Twins,Patrick McGuff,RHP,Morehead State,KY,,
+36,1084,Nationals,Jordan McFarland,OF,Waterloo (Ill.) HS,IL,Pool,Scouting
+36,1085,Giants,Ryan Matranga,C,San Francisco,CA,,
+36,1086,Angels,Jose Rojas,SS,Vanguard (Calif.),CA,,
+36,1087,Astros,Ian Hardman,RHP,Seminole State (Okla.) JC,OK,,
+36,1088,Yankees,Tyler Honahan,LHP,Stony Brook,NY,,
+36,1089,Rangers,Herbie Good,RHP,"Puyallup, Wash. (no school)",WA,Pool,Scouting
+36,1090,Mets,Garrison Bryant,RHP,Clearwater (Fla.) HS,FL,"$100,000 ",
+36,1091,Dodgers,Cal Stevenson,OF,Chabot (Calif.) JC,CA,Pool,
+36,1092,Blue Jays,Dustin Skelton,C,"Magnolia Heights HS, Senatobia, Miss.",MS,Pool,
+36,1093,Royals,Alex Massey,RHP,Tulane,LA,,
+36,1094,Cubs,Jake Slaughter,SS,"Ouachita Christian HS, Monroe, La.",LA,Pool,Scouting
+36,1095,Pirates,Dustin Williams,1B,Oklahoma State,OK,Pool,
+36,1096,Cardinals,Robbie Gordon,RHP,Maryville (Mo.),MO,,
+37,1097,Phillies,James Ziemba,LHP,Duke,NC,Pool,Scouting
+37,1098,Reds,Alec Benavides,LHP,"Alexander HS, Laredo, Texas",TX,Pool,
+37,1099,Braves,Zac Kristofak,RHP,"Walton HS, Marietta, Ga.",GA,Pool,
+37,1100,Rockies,Troy Bacon,RHP,Santa Fe (Fla.) JC,FL,Pool,Scouting
+37,1101,Brewers,Jomar Cortes,SS,"Beltran Baseball Academy, Florida, P.R.",PR,,
+37,1102,Athletics,Michael Farley,OF,Chico (Calif.) HS,CA,Pool,
+37,1103,Marlins,Zach Daly,OF,Lander (S.C.),SC,,
+37,1104,Padres,Ryan Rolison,LHP,"University School, Jackson, Tenn.",TN,Pool,Scouting
+37,1105,Tigers,David Fleita,2B,"Maine South HS, Park Ridge, Ill.",IL,Pool,
+37,1106,White Sox,Leo Kaplan,OF,"Harvard-Westlake HS, Los Angeles",CA,Pool,
+37,1107,Mariners,Eli Wilson,C,"Garfield HS, Seattle",WA,Pool,
+37,1108,Red Sox,Carter Aldrete,SS,Monterey (Calif.) HS,CA,Pool,Scouting
+37,1109,Diamondbacks,Welby Malczewski,LHP,Heartland (Ill.) CC,IL,Pool,
+37,1110,Rays,Ryan Zeferjahn,RHP,"Seaman HS, Topeka, Kan.",KS,Pool,Scouting
+37,1111,Orioles,James Teague,RHP,Arkansas,AR,,
+37,1112,Indians,Mike Amditis,C,Boca Raton (Fla.) HS,FL,Pool,Scouting
+37,1113,Twins,Danny Mayer,OF,Pacific,CA,Pool,
+37,1114,Nationals,Cory Voss,C,McLennan (Texas) CC,TX,Pool,Scouting
+37,1115,Giants,Chris Bono,OF,UCLA,CA,,
+37,1116,Angels,John Schuknecht,OF,Cal Poly,CA,,
+37,1117,Astros,Anthony DeFrancesco,3B,"Red Mountain HS, Mesa, Ariz.",AZ,Pool,
+37,1118,Yankees,Corey Dempster,OF,Southern California,CA,Pool,
+37,1119,Rangers,Austin O'Banion,OF,Fullerton (Calif.) JC,CA,,
+37,1120,Mets,Branden Fryman,SS,"Tate HS, Cantonment, Fla.",FL,Pool,
+37,1121,Dodgers,Enrique Zamora,RHP,Calumet College of St. Joseph (Ind.),IN,Pool,
+37,1122,Blue Jays,Luke Gillingham,LHP,Navy,MD,,
+37,1123,Royals,Justin Camp,RHP,Auburn,AL,,
+37,1124,Cubs,Davis Moore,RHP,"Los Osos HS, Rancho Cucamonga, Calif.",CA,Pool,
+37,1125,Pirates,Colin Brockhouse,RHP,Ball State,IN,Pool,
+37,1126,Cardinals,Andy Young,3B,Indiana State,IN,,
+38,1127,Phillies,Trevor Hillhouse,LHP,Woodstock (Ga.) HS,GA,Pool,
+38,1128,Reds,John Wilson,LHP,"North Hunterdon HS, Annandale, N.J.",NJ,Pool,
+38,1129,Braves,Dayton Tripp,RHP,Rend Lake (Ill.) JC,IL,Pool,
+38,1130,Rockies,Quin Cotton,OF,"Regis Jesuit HS, Aurora, Colo.",CO,Pool,
+38,1131,Brewers,Caleb Whalen,OF,Portland,OR,,
+38,1132,Athletics,Matthew Fraizer,OF,"Clovis North HS, Fresno",CA,Pool,
+38,1133,Marlins,Dustin Demeter,3B,"Dos Pueblos HS, Goleta, Calif.",CA,Pool,
+38,1134,Padres,William Solomon,LHP,Georgia-Gwinnett,GA,Pool,
+38,1135,Tigers,Josh Smith,SS,"Catholic HS, Baton Rouge",LA,Pool,Scouting
+38,1136,White Sox,Tyler Gordon,C,"Simeon Career Academy, Chicago",IL,Pool,
+38,1137,Mariners,James Reilly,RHP,"Magnus HS, Bardonia, N.Y.",NY,Pool,
+38,1138,Red Sox,Austin Bergner,RHP,Windermere (Fla.) Prep HS,FL,Pool,Scouting
+38,1139,Diamondbacks,Nelson Mompierre,C,Miami-Dade JC,FL,Pool,
+38,1140,Rays,Brian McAfee,RHP,Duke,NC,,Scouting
+38,1141,Orioles,Collin Woody,3B,UNC Greensboro,NC,,
+38,1142,Indians,Jacob DeVries,LHP,Air Force,CO,Pool,
+38,1143,Twins,Brent Rooker,OF,Mississippi State,MS,Pool,
+38,1144,Nationals,Noah Murdock,RHP,Colonial Heights (Va.) HS,VA,Pool,Scouting
+38,1145,Giants,David Lee,RHP,Santa Fe (Fla.) JC,FL,Pool,Scouting
+38,1146,Angels,Tyler Bates,OF,East Texas Baptist,TX,,
+38,1147,Astros,Chaz Pal,OF,South Carolina-Aiken,SC,,
+38,1148,Yankees,Sam Ferri,C,"Notre Dame College Prep, Niles, Ill.",IL,Pool,Scouting
+38,1149,Rangers,Reilly Peltier,RHP,McHenry County (Ill.) JC,IL,,
+38,1150,Mets,Jaylon McLaughlin,SS,Santa Monica (Calif.) HS,CA,Pool,
+38,1151,Dodgers,Kevin Malisheski,RHP,Wauconda (Ill.) HS,IL,"$248,500 ",
+38,1152,Blue Jays,Alex Segal,LHP,"Chapparal HS, Scottsdale, Ariz.",AZ,Pool,
+38,1153,Royals,Joey Fregosi,SS,"Murrieta Valley HS, Murrieta, Calif.",CA,Pool,
+38,1154,Cubs,Tolly Filotei,OF,Faulkner State (Ala.) CC,AL,,
+38,1155,Pirates,Aaron Maher,OF,East Tennessee State,TN,Pool,
+38,1156,Cardinals,Robert Calvano,RHP,Nebraska-Omaha,NE,,
+39,1157,Phillies,Dante Baldelli,OF,"Bishop Hendricken HS, Warwick, R.I.",RI,Pool,Scouting
+39,1158,Reds,Otis Statum,OF,"Bishop O'Dowd HS, Oakland",CA,Pool,Scouting
+39,1159,Braves,Parker Danciu,LHP,Marshall,WV,"$75,000 ",
+39,1160,Rockies,Cuba Bess,C,Fruita (Colo.) Monument HS,CO,Pool,Scouting
+39,1161,Brewers,Jose Gomez,OF,St. Thomas (Fla.),FL,,
+39,1162,Athletics,Shane Martinez,SS,"North HS, Riverside, Calif.",CA,Pool,
+39,1163,Marlins,Caleb Scires,OF,Fairfield (Texas) HS,TX,Pool,
+39,1164,Padres,J.J. Bleday,OF,"Mosley HS, Lynn Haven, Fla.",FL,Pool,
+39,1165,Tigers,Garrett Milchin,RHP,"The First Academy, Orlando",FL,Pool,
+39,1166,White Sox,Justin Lavey,SS,"Tremper HS, Kenosha, Wis.",WI,Pool,
+39,1167,Mariners,Camyrn Williams,SS,"Gaither HS, Tampa",FL,Pool,
+39,1168,Red Sox,Jake Wilson,OF,"Nottawasaga Pines SS, Angus, Ont.",ON,Pool,
+39,1169,Diamondbacks,Jacob Olson,2B,West Georgia Tech JC,GA,Pool,
+39,1170,Rays,Joshua Martinez,OF,"Caguas Military Academy, Gurabo, P.R.",PR,Pool,
+39,1171,Orioles,Seth Shuman,RHP,Valdosta (Ga.) HS,GA,Pool,
+39,1172,Indians,Pedro Alfonseca,OF,North Kansas City (Mo.) HS,MO,Pool,
+39,1173,Twins,Casey Scoggins,OF,Tampa,FL,,
+39,1174,Nationals,Matt Mervis,1B,"Georgetown Prep HS, North Bethesda, Md.",MD,Pool,
+39,1175,Giants,Andrew DiPiazza,RHP,Mercer County (N.J.) CC,NJ,Pool,
+39,1176,Angels,Richard Fecteau,2B,Salem State (Mass.),MA,,
+39,1177,Astros,Tyler Wolfe,2B,Kansas State,KS,,
+39,1178,Yankees,Brian Keller,RHP,Wisconsin-Milwaukee,WI,,Scouting
+39,1179,Rangers,Tyler Walsh,SS,Belmont,TN,Pool,
+39,1180,Mets,Jordan Hand,C,JC of Southern Nevada,NV,Pool,
+39,1181,Dodgers,Ryan Watson,RHP,Auburn (Ala.) HS,AL,Pool,
+39,1182,Blue Jays,Chavez Young,OF,"Faith Baptist Christian Academy, Ludowici, Ga.",GA,"$200,000 ",Scouting
+39,1183,Royals,Chase Livingston,C,Rhode Island,RI,,
+39,1184,Cubs,Anthony Block,LHP,"Newport HS, Bellevue, Wash.",WA,Pool,
+39,1185,Pirates,Harrison Wenson,C,Michigan,MI,Pool,Scouting
+39,1186,Cardinals,Aaron Bond,OF,San Jacinto (Texas) JC,TX,Pool,
+40,1187,Phillies,Trey Morris,RHP,"Taylor HS, Katy, Texas",TX,Pool,Scouting
+40,1188,Reds,Michael Bienlien,RHP,"Great Bridge HS, Chesapeake, Va.",VA,Pool,Scouting
+40,1189,Braves,Dylan Beasley,RHP,Rome (Ga.) HS,GA,Pool,
+40,1190,Rockies,Luca Dalatri,RHP,"Christian Brothers Academy, Lincroft, N.J.",NJ,Pool,Scouting
+40,1191,Brewers,Kyle Serrano,RHP,Tennessee,TN,Pool,Scouting
+40,1192,Athletics,Brett Bittiger,2B,Pace (N.Y.),NY,,
+40,1193,Marlins,Evan Douglas,2B,Spokane Falls (Wash.) CC,WA,Pool,
+40,1194,Padres,Chris Burica,LHP,Orange (Calif.) Lutheran HS,CA,Pool,
+40,1195,Tigers,Dalton Feeney,RHP,"Century HS, Bismarck, N.D.",ND,Pool,Scouting
+40,1196,White Sox,Drew Puglielli,3B,"Gulf Coast HS, Naples, Fla.",FL,Pool,
+40,1197,Mariners,Adley Rutschman,C,Sherwood (Ore.) HS,OR,Pool,Scouting
+40,1198,Red Sox,Carter Henry,RHP,"Port Neches-Groves HS, Port Neches, Texas",TX,Pool,Scouting
+40,1199,Diamondbacks,Jordan Wiley,OF,"Richland HS, North Richland Hills, Texas",TX,Pool,Scouting
+40,1200,Rays,Andrew Daschbach,3B,"Sacred Heart Prep, Atherton, Calif.",CA,Pool,Scouting
+40,1201,Orioles,Joe Johnson,RHP,Erskine (S.C.),SC,,
+40,1202,Indians,Danny Sinatro,OF,"Skyline HS, Sammamish, Wash.",WA,Pool,
+40,1203,Twins,T.J. Collett,C,"North Vigo HS, Terre Haute, Ind.",IN,Pool,Scouting
+40,1204,Nationals,Sean Cook,RHP,"Whitman HS, Bethesda, Md.",MD,Pool,
+40,1205,Giants,Nick Bennett,LHP,"Moeller HS, Cincinnati",OH,Pool,Scouting
+40,1206,Angels,Brad Anderson,1B,Pepperdine,CA,,
+40,1207,Astros,Lucas Williams,RHP,Central Missouri,MO,,
+40,1208,Yankees,Nate Brown,RHP,"Arrowhead Union HS, Hartland, Wis.",WI,Pool,Scouting
+40,1209,Rangers,Brent Burgess,C,Spartanburg Methodist (S.C.) JC,SC,Pool,
+40,1210,Mets,Michael Chambers,C,"John Paul II HS, Plano, Texas",TX,Pool,
+40,1211,Dodgers,Zach Taglieri,RHP,Port St. Lucie (Fla.) HS,FL,Pool,
+40,1212,Blue Jays,Carter Loewen,RHP,"Yale SS, Abbotsford, B.C.",BC,Pool,
+40,1213,Royals,Taylor Kaczmarek,RHP,San Diego,CA,,
+40,1214,Cubs,D.J. Roberts,RHP,"Atlantic Coast HS, Jacksonville",FL,Pool,Scouting
+40,1215,Pirates,Bret Boswell,SS,Texas,TX,Pool,
+40,1216,Cardinals,Jeremy Ydens,OF,"St. Francis HS, Mountain View, Calif.",CA,Pool,Scouting
